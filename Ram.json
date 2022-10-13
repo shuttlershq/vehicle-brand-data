@@ -1,0 +1,1048 @@
+{
+  "results": [
+    {
+      "objectId": "vSJgq9W6xS",
+      "Year": 2016,
+      "Make": "Ram",
+      "Model": "1500 Quad Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "A7NDZiaTGw",
+      "Year": 2019,
+      "Make": "Ram",
+      "Model": "2500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "iPv7OcMCms",
+      "Year": 2019,
+      "Make": "Ram",
+      "Model": "2500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "QAOXmfTGJ9",
+      "Year": 2018,
+      "Make": "Ram",
+      "Model": "3500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "DWp6vHbyiI",
+      "Year": 2015,
+      "Make": "Ram",
+      "Model": "2500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "75Yg02dZaE",
+      "Year": 2016,
+      "Make": "Ram",
+      "Model": "ProMaster Window Van",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "IPLVX2dCgM",
+      "Year": 2018,
+      "Make": "Ram",
+      "Model": "2500 Mega Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "HvOLOuR5OE",
+      "Year": 2019,
+      "Make": "Ram",
+      "Model": "3500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "8A980C0Z0m",
+      "Year": 2017,
+      "Make": "Ram",
+      "Model": "1500 Quad Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "g0HaAZC7B6",
+      "Year": 2018,
+      "Make": "Ram",
+      "Model": "3500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "XNhEhUXaHy",
+      "Year": 2019,
+      "Make": "Ram",
+      "Model": "2500 Mega Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "qNVbj3ZBMZ",
+      "Year": 2012,
+      "Make": "Ram",
+      "Model": "3500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.402Z",
+      "updatedAt": "2020-01-27T22:09:24.402Z"
+    },
+    {
+      "objectId": "eVwixSNEiD",
+      "Year": 2013,
+      "Make": "Ram",
+      "Model": "1500 Quad Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "2vt1MJhiAQ",
+      "Year": 2013,
+      "Make": "Ram",
+      "Model": "1500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "nOpKWhgvuv",
+      "Year": 2015,
+      "Make": "Ram",
+      "Model": "2500 Mega Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "donCqiFlAm",
+      "Year": 2018,
+      "Make": "Ram",
+      "Model": "ProMaster Cargo Van",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "IbYZF7g8Lq",
+      "Year": 2015,
+      "Make": "Ram",
+      "Model": "2500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "RiWj2CiEu7",
+      "Year": 2012,
+      "Make": "Ram",
+      "Model": "1500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "tll3Hhv82o",
+      "Year": 2017,
+      "Make": "Ram",
+      "Model": "ProMaster Window Van",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "HD3EcwgfA4",
+      "Year": 2018,
+      "Make": "Ram",
+      "Model": "1500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "jKIhY755LH",
+      "Year": 2017,
+      "Make": "Ram",
+      "Model": "1500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "adzVhsLuzT",
+      "Year": 2017,
+      "Make": "Ram",
+      "Model": "2500 Mega Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "aPzhzm92rX",
+      "Year": 2016,
+      "Make": "Ram",
+      "Model": "2500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "587IrBf1U3",
+      "Year": 2019,
+      "Make": "Ram",
+      "Model": "1500 Classic Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "1QM8bcAdfS",
+      "Year": 2017,
+      "Make": "Ram",
+      "Model": "3500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "fXAz7JqqSL",
+      "Year": 2015,
+      "Make": "Ram",
+      "Model": "3500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "IFsmQfFxP9",
+      "Year": 2019,
+      "Make": "Ram",
+      "Model": "ProMaster City",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "O9G5ThoNpo",
+      "Year": 2017,
+      "Make": "Ram",
+      "Model": "ProMaster City",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "C8ZujVaf5G",
+      "Year": 2020,
+      "Make": "Ram",
+      "Model": "2500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "wwdYcLbIR4",
+      "Year": 2017,
+      "Make": "Ram",
+      "Model": "2500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "ZhLjuoGDlU",
+      "Year": 2014,
+      "Make": "Ram",
+      "Model": "C/V Tradesman",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "ekT5l0lxWr",
+      "Year": 2013,
+      "Make": "Ram",
+      "Model": "3500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "I9kJrMY2qa",
+      "Year": 2016,
+      "Make": "Ram",
+      "Model": "3500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "jTPMAlRTED",
+      "Year": 2015,
+      "Make": "Ram",
+      "Model": "ProMaster City",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "VZL8UlMRxy",
+      "Year": 2012,
+      "Make": "Ram",
+      "Model": "3500 Mega Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.402Z",
+      "updatedAt": "2020-01-27T22:09:24.402Z"
+    },
+    {
+      "objectId": "YEevo7fHWm",
+      "Year": 2014,
+      "Make": "Ram",
+      "Model": "3500 Mega Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "QQnWgUGHiy",
+      "Year": 2012,
+      "Make": "Ram",
+      "Model": "1500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.402Z",
+      "updatedAt": "2020-01-27T22:09:24.402Z"
+    },
+    {
+      "objectId": "HPUE04qCaO",
+      "Year": 2015,
+      "Make": "Ram",
+      "Model": "3500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "ZnffCmwhZt",
+      "Year": 2019,
+      "Make": "Ram",
+      "Model": "ProMaster Window Van",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "y9pEN77fgV",
+      "Year": 2015,
+      "Make": "Ram",
+      "Model": "1500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "YhYiVZVRPG",
+      "Year": 2018,
+      "Make": "Ram",
+      "Model": "ProMaster City",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "WCydhW7D4N",
+      "Year": 2019,
+      "Make": "Ram",
+      "Model": "1500 Classic Quad Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "3kEaDND7mP",
+      "Year": 2018,
+      "Make": "Ram",
+      "Model": "3500 Mega Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "hybDkyBK7l",
+      "Year": 2017,
+      "Make": "Ram",
+      "Model": "1500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "s49VPzh6uh",
+      "Year": 2018,
+      "Make": "Ram",
+      "Model": "2500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "86pJn2GdIB",
+      "Year": 2018,
+      "Make": "Ram",
+      "Model": "1500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "VXX0smgwqm",
+      "Year": 2016,
+      "Make": "Ram",
+      "Model": "ProMaster Cargo Van",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "bwzb0shfur",
+      "Year": 2014,
+      "Make": "Ram",
+      "Model": "3500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "QXwQUKP5Q1",
+      "Year": 2014,
+      "Make": "Ram",
+      "Model": "2500 Mega Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "1VpDedAch0",
+      "Year": 2019,
+      "Make": "Ram",
+      "Model": "1500 Classic Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "3KJyMQBosK",
+      "Year": 2017,
+      "Make": "Ram",
+      "Model": "2500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "DIEn18el0n",
+      "Year": 2012,
+      "Make": "Ram",
+      "Model": "1500 Quad Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.402Z",
+      "updatedAt": "2020-01-27T22:09:24.402Z"
+    },
+    {
+      "objectId": "cl3BgtqnA6",
+      "Year": 2014,
+      "Make": "Ram",
+      "Model": "ProMaster 1500 Cargo",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "igveVzgDTp",
+      "Year": 2014,
+      "Make": "Ram",
+      "Model": "ProMaster 3500 Cargo",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "Sau3bv7FBe",
+      "Year": 2015,
+      "Make": "Ram",
+      "Model": "3500 Mega Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "p9ZOd6Ckcn",
+      "Year": 2013,
+      "Make": "Ram",
+      "Model": "2500 Mega Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "8jsvUd4LLA",
+      "Year": 2012,
+      "Make": "Ram",
+      "Model": "2500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.402Z",
+      "updatedAt": "2020-01-27T22:09:24.402Z"
+    },
+    {
+      "objectId": "Q5793IiDWx",
+      "Year": 2017,
+      "Make": "Ram",
+      "Model": "3500 Mega Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "rvpqLn3j9q",
+      "Year": 2020,
+      "Make": "Ram",
+      "Model": "1500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "4zpZErG6Il",
+      "Year": 2019,
+      "Make": "Ram",
+      "Model": "3500 Mega Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "gXjPphKLQ7",
+      "Year": 2016,
+      "Make": "Ram",
+      "Model": "3500 Mega Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "c3pcFObNFE",
+      "Year": 2020,
+      "Make": "Ram",
+      "Model": "3500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "W84YAI5tRg",
+      "Year": 2016,
+      "Make": "Ram",
+      "Model": "1500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "8t8yzKJHRR",
+      "Year": 2013,
+      "Make": "Ram",
+      "Model": "3500 Mega Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "iPprE2eQEq",
+      "Year": 2017,
+      "Make": "Ram",
+      "Model": "ProMaster Cargo Van",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "nmFBZHiiQh",
+      "Year": 2019,
+      "Make": "Ram",
+      "Model": "1500 Quad Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "CekFJKECeo",
+      "Year": 2012,
+      "Make": "Ram",
+      "Model": "2500 Mega Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.402Z",
+      "updatedAt": "2020-01-27T22:09:24.402Z"
+    },
+    {
+      "objectId": "EB9YuDPhUc",
+      "Year": 2016,
+      "Make": "Ram",
+      "Model": "2500 Mega Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "3XM8h1V0yd",
+      "Year": 2015,
+      "Make": "Ram",
+      "Model": "C/V Tradesman",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "2ZIEZZobGJ",
+      "Year": 2017,
+      "Make": "Ram",
+      "Model": "3500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "slBKdhMjwH",
+      "Year": 2014,
+      "Make": "Ram",
+      "Model": "2500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "ulfd9OsBcv",
+      "Year": 2018,
+      "Make": "Ram",
+      "Model": "2500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "c4608YdDE3",
+      "Year": 2013,
+      "Make": "Ram",
+      "Model": "1500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "FduGSDmNGt",
+      "Year": 2015,
+      "Make": "Ram",
+      "Model": "ProMaster Cargo Van",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "ei0gqN3r7L",
+      "Year": 2012,
+      "Make": "Ram",
+      "Model": "3500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.402Z",
+      "updatedAt": "2020-01-27T22:09:24.402Z"
+    },
+    {
+      "objectId": "nivW1REv9K",
+      "Year": 2015,
+      "Make": "Ram",
+      "Model": "1500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "o9WIDXmDV2",
+      "Year": 2014,
+      "Make": "Ram",
+      "Model": "1500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "HBkGz0iKeG",
+      "Year": 2012,
+      "Make": "Ram",
+      "Model": "2500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.402Z",
+      "updatedAt": "2020-01-27T22:09:24.402Z"
+    },
+    {
+      "objectId": "MIX6x1j9Ws",
+      "Year": 2019,
+      "Make": "Ram",
+      "Model": "1500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "QZMDvShmDF",
+      "Year": 2018,
+      "Make": "Ram",
+      "Model": "1500 Quad Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "6IyPBHdzFV",
+      "Year": 2016,
+      "Make": "Ram",
+      "Model": "ProMaster City",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "5xTmeNbsu5",
+      "Year": 2019,
+      "Make": "Ram",
+      "Model": "3500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "gFLiACvxeB",
+      "Year": 2016,
+      "Make": "Ram",
+      "Model": "3500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "Shv0mRBbIz",
+      "Year": 2019,
+      "Make": "Ram",
+      "Model": "ProMaster Cargo Van",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "RLpfgV49Ky",
+      "Year": 2016,
+      "Make": "Ram",
+      "Model": "1500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "FfHCIeiJVv",
+      "Year": 2015,
+      "Make": "Ram",
+      "Model": "ProMaster Window Van",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "65TD7WuYAE",
+      "Year": 2014,
+      "Make": "Ram",
+      "Model": "1500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "E7HGQZtDXj",
+      "Year": 2016,
+      "Make": "Ram",
+      "Model": "2500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "J4qVZOf2CH",
+      "Year": 2018,
+      "Make": "Ram",
+      "Model": "ProMaster Window Van",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "6vzKZOoHM6",
+      "Year": 2011,
+      "Make": "Ram",
+      "Model": "1500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.402Z",
+      "updatedAt": "2020-01-27T22:09:24.402Z"
+    },
+    {
+      "objectId": "ZOnnbZZGDB",
+      "Year": 2014,
+      "Make": "Ram",
+      "Model": "ProMaster 2500 Cargo",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "EvEvKGQiSK",
+      "Year": 2013,
+      "Make": "Ram",
+      "Model": "3500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "toL41LH8Zg",
+      "Year": 2011,
+      "Make": "Ram",
+      "Model": "1500 Quad Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.402Z",
+      "updatedAt": "2020-01-27T22:09:24.402Z"
+    },
+    {
+      "objectId": "JcEOjGhhLp",
+      "Year": 2014,
+      "Make": "Ram",
+      "Model": "3500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "j98UvbpGym",
+      "Year": 2015,
+      "Make": "Ram",
+      "Model": "1500 Quad Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "IB4sUhagme",
+      "Year": 2014,
+      "Make": "Ram",
+      "Model": "2500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "a4h0XeHf25",
+      "Year": 2012,
+      "Make": "Ram",
+      "Model": "C/V",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.402Z",
+      "updatedAt": "2020-01-27T22:09:24.402Z"
+    },
+    {
+      "objectId": "dsCjqGBJwB",
+      "Year": 2013,
+      "Make": "Ram",
+      "Model": "2500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "lxK4Yv6T8C",
+      "Year": 2014,
+      "Make": "Ram",
+      "Model": "1500 Quad Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.398Z",
+      "updatedAt": "2020-01-27T22:09:24.398Z"
+    },
+    {
+      "objectId": "gFAaKLgkKw",
+      "Year": 2013,
+      "Make": "Ram",
+      "Model": "2500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "MU92pQ8VDz",
+      "Year": 2013,
+      "Make": "Ram",
+      "Model": "C/V Tradesman",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T22:09:24.401Z",
+      "updatedAt": "2020-01-27T22:09:24.401Z"
+    },
+    {
+      "objectId": "i6SMu0XEN1",
+      "Year": 2011,
+      "Make": "Ram",
+      "Model": "1500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.729Z",
+      "updatedAt": "2020-01-27T22:09:24.729Z"
+    },
+    {
+      "objectId": "yAsEHwEV7w",
+      "Year": 2011,
+      "Make": "Ram",
+      "Model": "2500 Mega Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.729Z",
+      "updatedAt": "2020-01-27T22:09:24.729Z"
+    },
+    {
+      "objectId": "16tlgiZq7H",
+      "Year": 2011,
+      "Make": "Ram",
+      "Model": "2500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.729Z",
+      "updatedAt": "2020-01-27T22:09:24.729Z"
+    },
+    {
+      "objectId": "MGT5YRVUWD",
+      "Year": 2011,
+      "Make": "Ram",
+      "Model": "3500 Mega Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.729Z",
+      "updatedAt": "2020-01-27T22:09:24.729Z"
+    },
+    {
+      "objectId": "KDN4xjmTf2",
+      "Year": 2011,
+      "Make": "Ram",
+      "Model": "3500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.729Z",
+      "updatedAt": "2020-01-27T22:09:24.729Z"
+    },
+    {
+      "objectId": "TZPlu73Df5",
+      "Year": 2011,
+      "Make": "Ram",
+      "Model": "Dakota Extended Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.729Z",
+      "updatedAt": "2020-01-27T22:09:24.729Z"
+    },
+    {
+      "objectId": "mommQntQUC",
+      "Year": 2011,
+      "Make": "Ram",
+      "Model": "3500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.729Z",
+      "updatedAt": "2020-01-27T22:09:24.729Z"
+    },
+    {
+      "objectId": "aVTHgo4fcp",
+      "Year": 2011,
+      "Make": "Ram",
+      "Model": "2500 Regular Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.729Z",
+      "updatedAt": "2020-01-27T22:09:24.729Z"
+    },
+    {
+      "objectId": "yx917cbqDT",
+      "Year": 2011,
+      "Make": "Ram",
+      "Model": "Dakota Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:09:24.729Z",
+      "updatedAt": "2020-01-27T22:09:24.729Z"
+    },
+    {
+      "objectId": "hzbjoTYa0D",
+      "Year": 2021,
+      "Make": "Ram",
+      "Model": "1500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2021-04-15T13:32:46.957Z",
+      "updatedAt": "2021-04-15T13:32:46.957Z"
+    },
+    {
+      "objectId": "iX5WwZJ9gn",
+      "Year": 2021,
+      "Make": "Ram",
+      "Model": "2500 Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2021-04-15T13:32:46.957Z",
+      "updatedAt": "2021-04-15T13:32:46.957Z"
+    },
+    {
+      "objectId": "sVPaCqIJ69",
+      "Year": 2021,
+      "Make": "Ram",
+      "Model": "2500 Mega Cab",
+      "Category": "Pickup",
+      "createdAt": "2021-04-15T13:32:46.957Z",
+      "updatedAt": "2021-04-15T13:32:46.957Z"
+    },
+    {
+      "objectId": "OXkIODEVk4",
+      "Year": 2021,
+      "Make": "Ram",
+      "Model": "ProMaster Cargo Van",
+      "Category": "Van/Minivan",
+      "createdAt": "2021-04-15T13:32:46.957Z",
+      "updatedAt": "2021-04-15T13:32:46.957Z"
+    },
+    {
+      "objectId": "0kJqmK7iZH",
+      "Year": 2021,
+      "Make": "Ram",
+      "Model": "ProMaster City",
+      "Category": "Van/Minivan",
+      "createdAt": "2021-04-15T13:32:46.957Z",
+      "updatedAt": "2021-04-15T13:32:46.957Z"
+    },
+    {
+      "objectId": "woEt5yf2Ro",
+      "Year": 2021,
+      "Make": "Ram",
+      "Model": "ProMaster Window Van",
+      "Category": "Van/Minivan",
+      "createdAt": "2021-04-15T13:32:46.957Z",
+      "updatedAt": "2021-04-15T13:32:46.957Z"
+    }
+  ]
+}

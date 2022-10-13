@@ -1,0 +1,436 @@
+{
+  "results": [
+    {
+      "objectId": "Fqmvj3lanL",
+      "Year": 2007,
+      "Make": "Saab",
+      "Model": "9-7X",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "KFjQpouxuo",
+      "Year": 2010,
+      "Make": "Saab",
+      "Model": "3-Sep",
+      "Category": "Wagon, Convertible, Sedan",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "fRAOWLdqww",
+      "Year": 2008,
+      "Make": "Saab",
+      "Model": "3-Sep",
+      "Category": "Sedan, Convertible, Wagon",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "NVAItcL6gu",
+      "Year": 2009,
+      "Make": "Saab",
+      "Model": "5-Sep",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "XvkJbr5ff1",
+      "Year": 2005,
+      "Make": "Saab",
+      "Model": "5-Sep",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "dliKEJoUid",
+      "Year": 2009,
+      "Make": "Saab",
+      "Model": "3-Sep",
+      "Category": "Sedan, Convertible, Wagon",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "ubs3WYh7Qe",
+      "Year": 2002,
+      "Make": "Saab",
+      "Model": "3-Sep",
+      "Category": "Convertible, Hatchback",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "EJIEM8Lhd3",
+      "Year": 2009,
+      "Make": "Saab",
+      "Model": "9-7X",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "sRArf0ZGCP",
+      "Year": 2005,
+      "Make": "Saab",
+      "Model": "3-Sep",
+      "Category": "Convertible, Sedan",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "x7O4rUjZGJ",
+      "Year": 2002,
+      "Make": "Saab",
+      "Model": "5-Sep",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "WO2MD0LWXN",
+      "Year": 2008,
+      "Make": "Saab",
+      "Model": "5-Sep",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "W839huD6pA",
+      "Year": 2011,
+      "Make": "Saab",
+      "Model": "9-4X",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "7B0eljXoN0",
+      "Year": 2003,
+      "Make": "Saab",
+      "Model": "5-Sep",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "Abw60K1C3T",
+      "Year": 1998,
+      "Make": "Saab",
+      "Model": "900",
+      "Category": "Hatchback, Convertible",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "q0i2sctfVf",
+      "Year": 2001,
+      "Make": "Saab",
+      "Model": "5-Sep",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "cs8dAKHeRJ",
+      "Year": 2005,
+      "Make": "Saab",
+      "Model": "9-2X",
+      "Category": "Wagon",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "OMVk5qTWXm",
+      "Year": 2006,
+      "Make": "Saab",
+      "Model": "5-Sep",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "utD1lyssnd",
+      "Year": 1995,
+      "Make": "Saab",
+      "Model": "900",
+      "Category": "Hatchback, Convertible",
+      "createdAt": "2020-01-27T22:12:10.969Z",
+      "updatedAt": "2020-01-27T22:12:10.969Z"
+    },
+    {
+      "objectId": "CCpCFJMqZo",
+      "Year": 2004,
+      "Make": "Saab",
+      "Model": "5-Sep",
+      "Category": "Wagon, Sedan",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "axjezNr1Mm",
+      "Year": 2011,
+      "Make": "Saab",
+      "Model": "3-Sep",
+      "Category": "Sedan, Convertible, Wagon",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "wsDdZ4s1Un",
+      "Year": 2006,
+      "Make": "Saab",
+      "Model": "9-2X",
+      "Category": "Wagon",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "HA4eURjksV",
+      "Year": 2011,
+      "Make": "Saab",
+      "Model": "5-Sep",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "FaNfcGJ9tC",
+      "Year": 1999,
+      "Make": "Saab",
+      "Model": "5-Sep",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "FDE44x1ETi",
+      "Year": 2008,
+      "Make": "Saab",
+      "Model": "9-7X",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "IU0ND65Tiu",
+      "Year": 2007,
+      "Make": "Saab",
+      "Model": "5-Sep",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "s812HJK0kJ",
+      "Year": 1994,
+      "Make": "Saab",
+      "Model": "9000",
+      "Category": "Hatchback, Sedan",
+      "createdAt": "2020-01-27T22:12:10.969Z",
+      "updatedAt": "2020-01-27T22:12:10.969Z"
+    },
+    {
+      "objectId": "TyasbQFq4W",
+      "Year": 1995,
+      "Make": "Saab",
+      "Model": "9000",
+      "Category": "Hatchback, Sedan",
+      "createdAt": "2020-01-27T22:12:10.969Z",
+      "updatedAt": "2020-01-27T22:12:10.969Z"
+    },
+    {
+      "objectId": "WHa5dn8idy",
+      "Year": 1999,
+      "Make": "Saab",
+      "Model": "3-Sep",
+      "Category": "Hatchback, Convertible",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "An9WtAle9m",
+      "Year": 2006,
+      "Make": "Saab",
+      "Model": "9-7X",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "1mCYKUy7be",
+      "Year": 2010,
+      "Make": "Saab",
+      "Model": "5-Sep",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "i5nPDAzBy8",
+      "Year": 2006,
+      "Make": "Saab",
+      "Model": "3-Sep",
+      "Category": "Sedan, Convertible, Wagon",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "qA2EbfasHX",
+      "Year": 2003,
+      "Make": "Saab",
+      "Model": "3-Sep",
+      "Category": "Convertible, Sedan",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "4dmhHZllCG",
+      "Year": 2000,
+      "Make": "Saab",
+      "Model": "3-Sep",
+      "Category": "Hatchback, Convertible",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "KOx8VauNZe",
+      "Year": 1992,
+      "Make": "Saab",
+      "Model": "9000",
+      "Category": "Sedan, Hatchback",
+      "createdAt": "2020-01-27T22:12:10.969Z",
+      "updatedAt": "2020-01-27T22:12:10.969Z"
+    },
+    {
+      "objectId": "fbZael1BbM",
+      "Year": 1992,
+      "Make": "Saab",
+      "Model": "900",
+      "Category": "Sedan, Hatchback, Convertible",
+      "createdAt": "2020-01-27T22:12:10.969Z",
+      "updatedAt": "2020-01-27T22:12:10.969Z"
+    },
+    {
+      "objectId": "YaDUEXLGuH",
+      "Year": 2004,
+      "Make": "Saab",
+      "Model": "3-Sep",
+      "Category": "Sedan, Convertible",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "80LDH98ATo",
+      "Year": 1993,
+      "Make": "Saab",
+      "Model": "9000",
+      "Category": "Hatchback, Sedan",
+      "createdAt": "2020-01-27T22:12:10.969Z",
+      "updatedAt": "2020-01-27T22:12:10.969Z"
+    },
+    {
+      "objectId": "WVnYiqXzFB",
+      "Year": 2005,
+      "Make": "Saab",
+      "Model": "9-7X",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "wCadmpCX9p",
+      "Year": 1996,
+      "Make": "Saab",
+      "Model": "900",
+      "Category": "Hatchback, Convertible",
+      "createdAt": "2020-01-27T22:12:10.969Z",
+      "updatedAt": "2020-01-27T22:12:10.969Z"
+    },
+    {
+      "objectId": "XN4TeBoylj",
+      "Year": 2000,
+      "Make": "Saab",
+      "Model": "5-Sep",
+      "Category": "Wagon, Sedan",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "drVCUDRH6I",
+      "Year": 1997,
+      "Make": "Saab",
+      "Model": "900",
+      "Category": "Coupe, Hatchback, Convertible",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "WrlTnq35ka",
+      "Year": 2001,
+      "Make": "Saab",
+      "Model": "3-Sep",
+      "Category": "Hatchback, Convertible",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "iYrMC6O3nX",
+      "Year": 2007,
+      "Make": "Saab",
+      "Model": "3-Sep",
+      "Category": "Wagon, Sedan, Convertible",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "UQk3bN6Y3V",
+      "Year": 1993,
+      "Make": "Saab",
+      "Model": "900",
+      "Category": "Hatchback, Sedan, Convertible",
+      "createdAt": "2020-01-27T22:12:10.969Z",
+      "updatedAt": "2020-01-27T22:12:10.969Z"
+    },
+    {
+      "objectId": "lnDOtFTkuZ",
+      "Year": 1996,
+      "Make": "Saab",
+      "Model": "9000",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T22:12:10.969Z",
+      "updatedAt": "2020-01-27T22:12:10.969Z"
+    },
+    {
+      "objectId": "5MpB0QEmwB",
+      "Year": 1998,
+      "Make": "Saab",
+      "Model": "9000",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "A1DcpE2AwZ",
+      "Year": 1997,
+      "Make": "Saab",
+      "Model": "9000",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T22:12:10.968Z",
+      "updatedAt": "2020-01-27T22:12:10.968Z"
+    },
+    {
+      "objectId": "BE4umwi7jC",
+      "Year": 1994,
+      "Make": "Saab",
+      "Model": "900",
+      "Category": "Coupe, Hatchback, Convertible",
+      "createdAt": "2020-01-27T22:12:10.969Z",
+      "updatedAt": "2020-01-27T22:12:10.969Z"
+    }
+  ]
+}

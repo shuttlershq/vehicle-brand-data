@@ -1,0 +1,22 @@
+{
+  "results": [
+    {
+      "objectId": "laFPXS6L7p",
+      "Year": 1992,
+      "Make": "Daihatsu",
+      "Model": "Charade",
+      "Category": "Sedan, Hatchback",
+      "createdAt": "2020-01-27T21:13:12.415Z",
+      "updatedAt": "2020-01-27T21:13:12.415Z"
+    },
+    {
+      "objectId": "1A12us4Er1",
+      "Year": 1992,
+      "Make": "Daihatsu",
+      "Model": "Rocky",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:13:12.415Z",
+      "updatedAt": "2020-01-27T21:13:12.415Z"
+    }
+  ]
+}

@@ -1,0 +1,1777 @@
+{
+  "results": [
+    {
+      "objectId": "GoUfUUjJ44",
+      "Year": 2019,
+      "Make": "Cadillac",
+      "Model": "XT4",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "0fqf54Vv1n",
+      "Year": 2019,
+      "Make": "Cadillac",
+      "Model": "CT6",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "oNEdCPVfHx",
+      "Year": 2020,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "FRrt8imkf9",
+      "Year": 2018,
+      "Make": "Cadillac",
+      "Model": "ATS",
+      "Category": "Coupe, Sedan",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "RgCZBMNCCK",
+      "Year": 2013,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "tpU6259ros",
+      "Year": 2019,
+      "Make": "Cadillac",
+      "Model": "CTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "2Py0dyLvBM",
+      "Year": 2018,
+      "Make": "Cadillac",
+      "Model": "ATS-V",
+      "Category": "Coupe, Sedan",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "eAIcDJOOXa",
+      "Year": 2016,
+      "Make": "Cadillac",
+      "Model": "CTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "QTEiPdkHF0",
+      "Year": 2013,
+      "Make": "Cadillac",
+      "Model": "SRX",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "TFonXIUlkt",
+      "Year": 2018,
+      "Make": "Cadillac",
+      "Model": "CTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "nMLUfjJCKu",
+      "Year": 2019,
+      "Make": "Cadillac",
+      "Model": "ATS-V",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "rGCQns1DpD",
+      "Year": 2017,
+      "Make": "Cadillac",
+      "Model": "XT5",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.489Z",
+      "updatedAt": "2020-01-27T21:07:40.489Z"
+    },
+    {
+      "objectId": "VIpy1iASAU",
+      "Year": 2015,
+      "Make": "Cadillac",
+      "Model": "XTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "nLqJIeNh5c",
+      "Year": 2015,
+      "Make": "Cadillac",
+      "Model": "CTS",
+      "Category": "Sedan, Coupe",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "hmobmTMPQP",
+      "Year": 2017,
+      "Make": "Cadillac",
+      "Model": "CTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "cklJBpkiLT",
+      "Year": 2015,
+      "Make": "Cadillac",
+      "Model": "ATS",
+      "Category": "Sedan, Coupe",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "lseDfeB9AG",
+      "Year": 2017,
+      "Make": "Cadillac",
+      "Model": "CT6",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "Ot1DMpUC4H",
+      "Year": 2019,
+      "Make": "Cadillac",
+      "Model": "XT5",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "8QC8JVXM4R",
+      "Year": 2020,
+      "Make": "Cadillac",
+      "Model": "XT6",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "6coaPAt86Z",
+      "Year": 2016,
+      "Make": "Cadillac",
+      "Model": "CT6",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "LpdWWV1Mcj",
+      "Year": 2019,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "qEhHMnZ9mq",
+      "Year": 2018,
+      "Make": "Cadillac",
+      "Model": "CTS-V",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "1YS6CGNTt7",
+      "Year": 2013,
+      "Make": "Cadillac",
+      "Model": "ATS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "eIx84SDEsT",
+      "Year": 2015,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "B9PsomAOT3",
+      "Year": 2016,
+      "Make": "Cadillac",
+      "Model": "ATS-V",
+      "Category": "Sedan, Coupe",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "RC7BumtxqD",
+      "Year": 2015,
+      "Make": "Cadillac",
+      "Model": "SRX",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "HW7KQFWrNA",
+      "Year": 2017,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.489Z",
+      "updatedAt": "2020-01-27T21:07:40.489Z"
+    },
+    {
+      "objectId": "RwuDBvslgJ",
+      "Year": 2015,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "7VwGA2Hzqi",
+      "Year": 2011,
+      "Make": "Cadillac",
+      "Model": "DTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "WZBWwhVrQc",
+      "Year": 2019,
+      "Make": "Cadillac",
+      "Model": "CTS-V",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "Rzj249Oq0W",
+      "Year": 2020,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "jHpwwQrNrW",
+      "Year": 2016,
+      "Make": "Cadillac",
+      "Model": "SRX",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "TJWxk3wEGs",
+      "Year": 2017,
+      "Make": "Cadillac",
+      "Model": "XTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.489Z",
+      "updatedAt": "2020-01-27T21:07:40.489Z"
+    },
+    {
+      "objectId": "lQFawS3UEE",
+      "Year": 2012,
+      "Make": "Cadillac",
+      "Model": "SRX",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "FNE5t6pN0a",
+      "Year": 2017,
+      "Make": "Cadillac",
+      "Model": "ATS-V",
+      "Category": "Sedan, Coupe",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "uPgZSALOBz",
+      "Year": 2018,
+      "Make": "Cadillac",
+      "Model": "CT6",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "ClK2D5eUwZ",
+      "Year": 2020,
+      "Make": "Cadillac",
+      "Model": "XT5",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "WLaAFbGGKb",
+      "Year": 2013,
+      "Make": "Cadillac",
+      "Model": "XTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "MVOtZJMgbz",
+      "Year": 2016,
+      "Make": "Cadillac",
+      "Model": "CTS-V",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "LXFLAtcW5F",
+      "Year": 2010,
+      "Make": "Cadillac",
+      "Model": "SRX",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "UfHN4NPQEV",
+      "Year": 2014,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "rncL0c5H5P",
+      "Year": 2010,
+      "Make": "Cadillac",
+      "Model": "STS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "qkbTN4BRaQ",
+      "Year": 2016,
+      "Make": "Cadillac",
+      "Model": "ELR",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "jYmjuGYkLf",
+      "Year": 2009,
+      "Make": "Cadillac",
+      "Model": "Escalade EXT",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "Thpxa8iGWT",
+      "Year": 2010,
+      "Make": "Cadillac",
+      "Model": "Escalade EXT",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "MMhvxidvj8",
+      "Year": 2020,
+      "Make": "Cadillac",
+      "Model": "XT4",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "qejd4g8YDl",
+      "Year": 2017,
+      "Make": "Cadillac",
+      "Model": "CTS-V",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "f6mZHFCI2n",
+      "Year": 2018,
+      "Make": "Cadillac",
+      "Model": "XT5",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "qVrHnDE7Uc",
+      "Year": 2020,
+      "Make": "Cadillac",
+      "Model": "CT6-V",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "tW51fqsueW",
+      "Year": 2019,
+      "Make": "Cadillac",
+      "Model": "XTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "mmTEegCZWV",
+      "Year": 2020,
+      "Make": "Cadillac",
+      "Model": "CT5",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "ewGm4x7YyT",
+      "Year": 2016,
+      "Make": "Cadillac",
+      "Model": "ATS",
+      "Category": "Coupe, Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "2iXjnNHRwK",
+      "Year": 2018,
+      "Make": "Cadillac",
+      "Model": "XTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "3GGKfzVx7U",
+      "Year": 2014,
+      "Make": "Cadillac",
+      "Model": "SRX",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "aM8XnrLPSE",
+      "Year": 2009,
+      "Make": "Cadillac",
+      "Model": "CTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "0Fg1HYDjwU",
+      "Year": 2014,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "prErRC0U0K",
+      "Year": 2012,
+      "Make": "Cadillac",
+      "Model": "Escalade EXT",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "20tmV7xhtn",
+      "Year": 2008,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "16uR0E4A9B",
+      "Year": 2014,
+      "Make": "Cadillac",
+      "Model": "CTS",
+      "Category": "Sedan, Coupe, Wagon",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "xFuMyDsgyi",
+      "Year": 2014,
+      "Make": "Cadillac",
+      "Model": "ATS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "SttT2Se0b4",
+      "Year": 2009,
+      "Make": "Cadillac",
+      "Model": "XLR",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "P69nXJgfwS",
+      "Year": 2013,
+      "Make": "Cadillac",
+      "Model": "CTS",
+      "Category": "Sedan, Coupe, Wagon",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "HhJuSTzgZt",
+      "Year": 2012,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "Nj73gwp1sN",
+      "Year": 2011,
+      "Make": "Cadillac",
+      "Model": "CTS",
+      "Category": "Sedan, Wagon, Coupe",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "KUsLB8FsNo",
+      "Year": 2016,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "W9TGMyTCss",
+      "Year": 2017,
+      "Make": "Cadillac",
+      "Model": "ATS",
+      "Category": "Coupe, Sedan",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "18McAZmHsQ",
+      "Year": 2014,
+      "Make": "Cadillac",
+      "Model": "XTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "yF0EI9dxWC",
+      "Year": 2016,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "fmoAjn4Ljc",
+      "Year": 2019,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "KcjM8gSpRq",
+      "Year": 2018,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "IAZvOLHpOH",
+      "Year": 2008,
+      "Make": "Cadillac",
+      "Model": "CTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "mgAaEe3DNc",
+      "Year": 2017,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "wIhl3Lm1N2",
+      "Year": 2016,
+      "Make": "Cadillac",
+      "Model": "XTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "v6qB2I80op",
+      "Year": 2019,
+      "Make": "Cadillac",
+      "Model": "CT6-V",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "BnsTO5IpcZ",
+      "Year": 2011,
+      "Make": "Cadillac",
+      "Model": "STS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "qWtKfr8wVb",
+      "Year": 2019,
+      "Make": "Cadillac",
+      "Model": "ATS",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "cRNJwIc8i1",
+      "Year": 2009,
+      "Make": "Cadillac",
+      "Model": "STS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "DRFSonmX1T",
+      "Year": 2011,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "2WuWI3sCez",
+      "Year": 2010,
+      "Make": "Cadillac",
+      "Model": "DTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "uL8j9Y3yhZ",
+      "Year": 2008,
+      "Make": "Cadillac",
+      "Model": "DTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "3Rg98Gb36j",
+      "Year": 2012,
+      "Make": "Cadillac",
+      "Model": "CTS",
+      "Category": "Sedan, Coupe, Wagon",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "sVDedQc8nq",
+      "Year": 2013,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "AKBwjHyzzu",
+      "Year": 2008,
+      "Make": "Cadillac",
+      "Model": "SRX",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "4kmPC85Z6C",
+      "Year": 2018,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.488Z",
+      "updatedAt": "2020-01-27T21:07:40.488Z"
+    },
+    {
+      "objectId": "r3BDCrvsff",
+      "Year": 2009,
+      "Make": "Cadillac",
+      "Model": "SRX",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "BgwRmH6Slk",
+      "Year": 2009,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "585pjo5yfB",
+      "Year": 2009,
+      "Make": "Cadillac",
+      "Model": "DTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "ZAn32LQgmj",
+      "Year": 2010,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "w5rTJAmQuY",
+      "Year": 2014,
+      "Make": "Cadillac",
+      "Model": "ELR",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "UYm9C2twCB",
+      "Year": 2010,
+      "Make": "Cadillac",
+      "Model": "CTS",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "Dt6zixtcey",
+      "Year": 2013,
+      "Make": "Cadillac",
+      "Model": "Escalade EXT",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "IX2uqlByhi",
+      "Year": 2011,
+      "Make": "Cadillac",
+      "Model": "SRX",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "IcbNVTgkrs",
+      "Year": 2011,
+      "Make": "Cadillac",
+      "Model": "Escalade EXT",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "EMGBE6O9hr",
+      "Year": 2008,
+      "Make": "Cadillac",
+      "Model": "XLR",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "sY9soHXUDL",
+      "Year": 2011,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "dmTBJCHRoQ",
+      "Year": 2008,
+      "Make": "Cadillac",
+      "Model": "STS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "10JG1PRVHv",
+      "Year": 2010,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "AVpy0AayCf",
+      "Year": 2012,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "bSjKsAIebX",
+      "Year": 2008,
+      "Make": "Cadillac",
+      "Model": "Escalade EXT",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "bgROxgigzk",
+      "Year": 2009,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "uBRBVhWTXs",
+      "Year": 2008,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.491Z",
+      "updatedAt": "2020-01-27T21:07:40.491Z"
+    },
+    {
+      "objectId": "i8MDoOIyPS",
+      "Year": 2007,
+      "Make": "Cadillac",
+      "Model": "Escalade EXT",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T21:07:40.701Z",
+      "updatedAt": "2020-01-27T21:07:40.701Z"
+    },
+    {
+      "objectId": "1VbyPiU1zn",
+      "Year": 2006,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.701Z",
+      "updatedAt": "2020-01-27T21:07:40.701Z"
+    },
+    {
+      "objectId": "R7aQjViGhp",
+      "Year": 2007,
+      "Make": "Cadillac",
+      "Model": "XLR",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:07:40.701Z",
+      "updatedAt": "2020-01-27T21:07:40.701Z"
+    },
+    {
+      "objectId": "bTpUxhK2NR",
+      "Year": 2007,
+      "Make": "Cadillac",
+      "Model": "STS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.701Z",
+      "updatedAt": "2020-01-27T21:07:40.701Z"
+    },
+    {
+      "objectId": "kHEXyWYS34",
+      "Year": 2007,
+      "Make": "Cadillac",
+      "Model": "CTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.701Z",
+      "updatedAt": "2020-01-27T21:07:40.701Z"
+    },
+    {
+      "objectId": "1rUQUrkuGK",
+      "Year": 2006,
+      "Make": "Cadillac",
+      "Model": "DTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.701Z",
+      "updatedAt": "2020-01-27T21:07:40.701Z"
+    },
+    {
+      "objectId": "jnclZWTmwY",
+      "Year": 2007,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.701Z",
+      "updatedAt": "2020-01-27T21:07:40.701Z"
+    },
+    {
+      "objectId": "7idzmrvT7g",
+      "Year": 2007,
+      "Make": "Cadillac",
+      "Model": "DTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.701Z",
+      "updatedAt": "2020-01-27T21:07:40.701Z"
+    },
+    {
+      "objectId": "4IyLTQTGv5",
+      "Year": 2006,
+      "Make": "Cadillac",
+      "Model": "SRX",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "RMpasfHdwE",
+      "Year": 2006,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.701Z",
+      "updatedAt": "2020-01-27T21:07:40.701Z"
+    },
+    {
+      "objectId": "LJOUMqUyyr",
+      "Year": 2007,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.701Z",
+      "updatedAt": "2020-01-27T21:07:40.701Z"
+    },
+    {
+      "objectId": "bwavAhyGAs",
+      "Year": 2006,
+      "Make": "Cadillac",
+      "Model": "CTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.701Z",
+      "updatedAt": "2020-01-27T21:07:40.701Z"
+    },
+    {
+      "objectId": "UUj96RrEUn",
+      "Year": 2007,
+      "Make": "Cadillac",
+      "Model": "SRX",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.701Z",
+      "updatedAt": "2020-01-27T21:07:40.701Z"
+    },
+    {
+      "objectId": "PVZEXgrEtC",
+      "Year": 2006,
+      "Make": "Cadillac",
+      "Model": "Escalade EXT",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "OCdvnTN4cE",
+      "Year": 2005,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "kaF2wmkMPj",
+      "Year": 2005,
+      "Make": "Cadillac",
+      "Model": "CTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "pJB6THTeh6",
+      "Year": 2006,
+      "Make": "Cadillac",
+      "Model": "STS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "GFIIpL3V3m",
+      "Year": 2006,
+      "Make": "Cadillac",
+      "Model": "XLR",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "l6oeFdI9e8",
+      "Year": 2005,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "88KW4OyiwW",
+      "Year": 2005,
+      "Make": "Cadillac",
+      "Model": "STS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "S4uUzKoT3Y",
+      "Year": 2004,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "vDXaYECCTl",
+      "Year": 2005,
+      "Make": "Cadillac",
+      "Model": "XLR",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "5gzz0lLKzp",
+      "Year": 2005,
+      "Make": "Cadillac",
+      "Model": "Escalade EXT",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "XEoCr2bhuF",
+      "Year": 2005,
+      "Make": "Cadillac",
+      "Model": "DeVille",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "d41hc4P7Hg",
+      "Year": 2005,
+      "Make": "Cadillac",
+      "Model": "SRX",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "FKwgAJh4GG",
+      "Year": 2004,
+      "Make": "Cadillac",
+      "Model": "CTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "w4ShgDtkpA",
+      "Year": 2004,
+      "Make": "Cadillac",
+      "Model": "Escalade EXT",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "7mS5Jakm6M",
+      "Year": 2004,
+      "Make": "Cadillac",
+      "Model": "XLR",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "G63Bwmli2U",
+      "Year": 2003,
+      "Make": "Cadillac",
+      "Model": "Escalade EXT",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "bYy05joL8p",
+      "Year": 2003,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "tFT6nZjDkP",
+      "Year": 2003,
+      "Make": "Cadillac",
+      "Model": "DeVille",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "uLv91k8T8a",
+      "Year": 2004,
+      "Make": "Cadillac",
+      "Model": "Seville",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "HY5VEwqENY",
+      "Year": 2003,
+      "Make": "Cadillac",
+      "Model": "Seville",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "BHsZMJkBRg",
+      "Year": 2002,
+      "Make": "Cadillac",
+      "Model": "DeVille",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "zHpzEJAYCa",
+      "Year": 2004,
+      "Make": "Cadillac",
+      "Model": "DeVille",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "fi6fkJPD4D",
+      "Year": 2003,
+      "Make": "Cadillac",
+      "Model": "CTS",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "8kJWsfpnMo",
+      "Year": 2004,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "YD6OPouCbW",
+      "Year": 2003,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "f75LuPG6Yi",
+      "Year": 2002,
+      "Make": "Cadillac",
+      "Model": "Escalade EXT",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "bBPh9E5KO5",
+      "Year": 2004,
+      "Make": "Cadillac",
+      "Model": "SRX",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "oRR7xiSYVv",
+      "Year": 2001,
+      "Make": "Cadillac",
+      "Model": "Catera",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "1Ea52o8J3O",
+      "Year": 2002,
+      "Make": "Cadillac",
+      "Model": "Eldorado",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "o4XdH2aIJi",
+      "Year": 2001,
+      "Make": "Cadillac",
+      "Model": "DeVille",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "VuZPO3Ks5F",
+      "Year": 2000,
+      "Make": "Cadillac",
+      "Model": "DeVille",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "urgHsIs4O2",
+      "Year": 2001,
+      "Make": "Cadillac",
+      "Model": "Seville",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "HGWoLsOsME",
+      "Year": 2002,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "7Izry7PUvR",
+      "Year": 2002,
+      "Make": "Cadillac",
+      "Model": "Seville",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "6HFujATWg7",
+      "Year": 1999,
+      "Make": "Cadillac",
+      "Model": "Catera",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "qOcN46Mvv3",
+      "Year": 1999,
+      "Make": "Cadillac",
+      "Model": "Eldorado",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "uYNMAokZAb",
+      "Year": 1998,
+      "Make": "Cadillac",
+      "Model": "DeVille",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "oRSjD4FkUK",
+      "Year": 1999,
+      "Make": "Cadillac",
+      "Model": "DeVille",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "E3pB0Ju4SC",
+      "Year": 2000,
+      "Make": "Cadillac",
+      "Model": "Catera",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "zKgcFVdCP9",
+      "Year": 2000,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "huFaIbyud7",
+      "Year": 2000,
+      "Make": "Cadillac",
+      "Model": "Eldorado",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "pn1LMQjONk",
+      "Year": 2000,
+      "Make": "Cadillac",
+      "Model": "Seville",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "TUNgGribHY",
+      "Year": 1997,
+      "Make": "Cadillac",
+      "Model": "Eldorado",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "vtjQJDptLB",
+      "Year": 1997,
+      "Make": "Cadillac",
+      "Model": "Catera",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "gemFCBkW1G",
+      "Year": 1998,
+      "Make": "Cadillac",
+      "Model": "Catera",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "abrxJAwQkA",
+      "Year": 1999,
+      "Make": "Cadillac",
+      "Model": "Seville",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "OjXrVWE0ko",
+      "Year": 2001,
+      "Make": "Cadillac",
+      "Model": "Eldorado",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "80wmB1e5Ei",
+      "Year": 1996,
+      "Make": "Cadillac",
+      "Model": "Eldorado",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "mthK5J7QJE",
+      "Year": 1996,
+      "Make": "Cadillac",
+      "Model": "Seville",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "E9vPRieWNY",
+      "Year": 1998,
+      "Make": "Cadillac",
+      "Model": "Seville",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "Jq3GCNsmtx",
+      "Year": 1996,
+      "Make": "Cadillac",
+      "Model": "Fleetwood",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "FFBLlOMtDJ",
+      "Year": 1995,
+      "Make": "Cadillac",
+      "Model": "Fleetwood",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "4kxEeQTxvz",
+      "Year": 1999,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "hbGfswpGkL",
+      "Year": 1998,
+      "Make": "Cadillac",
+      "Model": "Eldorado",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "X3gsz9QvUR",
+      "Year": 1997,
+      "Make": "Cadillac",
+      "Model": "DeVille",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "hStmjDM1CV",
+      "Year": 1997,
+      "Make": "Cadillac",
+      "Model": "Seville",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "tc7FMhBboS",
+      "Year": 1994,
+      "Make": "Cadillac",
+      "Model": "DeVille",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "ubIjEbkuux",
+      "Year": 1994,
+      "Make": "Cadillac",
+      "Model": "Seville",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "CHVT1axgIi",
+      "Year": 1994,
+      "Make": "Cadillac",
+      "Model": "Eldorado",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "XkYKbZ9IVP",
+      "Year": 1995,
+      "Make": "Cadillac",
+      "Model": "Eldorado",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "b3W1yN30kT",
+      "Year": 1995,
+      "Make": "Cadillac",
+      "Model": "DeVille",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "jDTjxmdeBb",
+      "Year": 1995,
+      "Make": "Cadillac",
+      "Model": "Seville",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "RYKt56fm7x",
+      "Year": 1996,
+      "Make": "Cadillac",
+      "Model": "DeVille",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "zY4BvnhNTs",
+      "Year": 1992,
+      "Make": "Cadillac",
+      "Model": "Allante",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "zzToCs57FX",
+      "Year": 1993,
+      "Make": "Cadillac",
+      "Model": "DeVille",
+      "Category": "Coupe, Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "UjUlEmk1mf",
+      "Year": 1992,
+      "Make": "Cadillac",
+      "Model": "Eldorado",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "XGFttoL262",
+      "Year": 1993,
+      "Make": "Cadillac",
+      "Model": "Seville",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "fRIMMzCwI4",
+      "Year": 1993,
+      "Make": "Cadillac",
+      "Model": "Allante",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "LHTM2eWK9I",
+      "Year": 1994,
+      "Make": "Cadillac",
+      "Model": "Fleetwood",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "jTqm4KPIF8",
+      "Year": 1993,
+      "Make": "Cadillac",
+      "Model": "Eldorado",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "MOnixUSL8h",
+      "Year": 1992,
+      "Make": "Cadillac",
+      "Model": "DeVille",
+      "Category": "Sedan, Coupe",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "d0u566IfBn",
+      "Year": 1992,
+      "Make": "Cadillac",
+      "Model": "Fleetwood",
+      "Category": "Sedan, Coupe",
+      "createdAt": "2020-01-27T21:07:40.703Z",
+      "updatedAt": "2020-01-27T21:07:40.703Z"
+    },
+    {
+      "objectId": "sqBINYzLSU",
+      "Year": 1992,
+      "Make": "Cadillac",
+      "Model": "Brougham",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "v6fCnSE5cv",
+      "Year": 1992,
+      "Make": "Cadillac",
+      "Model": "Seville",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.703Z",
+      "updatedAt": "2020-01-27T21:07:40.703Z"
+    },
+    {
+      "objectId": "P275MDPbFE",
+      "Year": 1993,
+      "Make": "Cadillac",
+      "Model": "Fleetwood",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "hPBZcaB2gv",
+      "Year": 1993,
+      "Make": "Cadillac",
+      "Model": "Sixty Special",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:07:40.702Z",
+      "updatedAt": "2020-01-27T21:07:40.702Z"
+    },
+    {
+      "objectId": "pfU4pK8B3I",
+      "Year": 2021,
+      "Make": "Cadillac",
+      "Model": "CT4",
+      "Category": "Sedan",
+      "createdAt": "2021-04-15T13:18:53.624Z",
+      "updatedAt": "2021-04-15T13:18:53.624Z"
+    },
+    {
+      "objectId": "g3ZxGrUYj8",
+      "Year": 2021,
+      "Make": "Cadillac",
+      "Model": "CT5",
+      "Category": "Sedan",
+      "createdAt": "2021-04-15T13:18:53.624Z",
+      "updatedAt": "2021-04-15T13:18:53.624Z"
+    },
+    {
+      "objectId": "CXwodw7OdS",
+      "Year": 2021,
+      "Make": "Cadillac",
+      "Model": "Escalade",
+      "Category": "SUV",
+      "createdAt": "2021-04-15T13:18:53.624Z",
+      "updatedAt": "2021-04-15T13:18:53.624Z"
+    },
+    {
+      "objectId": "k0krrgvkkA",
+      "Year": 2021,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2021-04-15T13:18:53.624Z",
+      "updatedAt": "2021-04-15T13:18:53.624Z"
+    },
+    {
+      "objectId": "bT9UZ1TXb3",
+      "Year": 2021,
+      "Make": "Cadillac",
+      "Model": "XT4",
+      "Category": "SUV",
+      "createdAt": "2021-04-15T13:18:53.624Z",
+      "updatedAt": "2021-04-15T13:18:53.624Z"
+    },
+    {
+      "objectId": "TpSx3ektYB",
+      "Year": 2021,
+      "Make": "Cadillac",
+      "Model": "XT5",
+      "Category": "SUV",
+      "createdAt": "2021-04-15T13:18:53.624Z",
+      "updatedAt": "2021-04-15T13:18:53.624Z"
+    },
+    {
+      "objectId": "SM9NdqUAt2",
+      "Year": 2021,
+      "Make": "Cadillac",
+      "Model": "XT6",
+      "Category": "SUV",
+      "createdAt": "2021-04-15T13:18:53.624Z",
+      "updatedAt": "2021-04-15T13:18:53.624Z"
+    }
+  ]
+}

@@ -1,0 +1,1435 @@
+{
+  "results": [
+    {
+      "objectId": "rTy9qD1plF",
+      "Year": 2015,
+      "Make": "Buick",
+      "Model": "Encore",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "ydBECC4RfD",
+      "Year": 2017,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "UWpPfz8gzs",
+      "Year": 2019,
+      "Make": "Buick",
+      "Model": "Regal Sportback",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.545Z",
+      "updatedAt": "2020-01-27T21:06:25.545Z"
+    },
+    {
+      "objectId": "OVxe4NdJym",
+      "Year": 2017,
+      "Make": "Buick",
+      "Model": "LaCrosse",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "1pG3DYkEGr",
+      "Year": 2020,
+      "Make": "Buick",
+      "Model": "Encore",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.545Z",
+      "updatedAt": "2020-01-27T21:06:25.545Z"
+    },
+    {
+      "objectId": "o1KFBKws2g",
+      "Year": 2017,
+      "Make": "Buick",
+      "Model": "Cascada",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "qI4eQJEqa6",
+      "Year": 2018,
+      "Make": "Buick",
+      "Model": "Regal TourX",
+      "Category": "Wagon",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "CHpxcRQnni",
+      "Year": 2019,
+      "Make": "Buick",
+      "Model": "LaCrosse",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.545Z",
+      "updatedAt": "2020-01-27T21:06:25.545Z"
+    },
+    {
+      "objectId": "o3rLUvxDRa",
+      "Year": 2019,
+      "Make": "Buick",
+      "Model": "Encore",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.545Z",
+      "updatedAt": "2020-01-27T21:06:25.545Z"
+    },
+    {
+      "objectId": "LEObKiuV4A",
+      "Year": 2017,
+      "Make": "Buick",
+      "Model": "Encore",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "5SRwFaM76c",
+      "Year": 2009,
+      "Make": "Buick",
+      "Model": "LaCrosse",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "fyqU9iiC1g",
+      "Year": 2020,
+      "Make": "Buick",
+      "Model": "Enclave",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.545Z",
+      "updatedAt": "2020-01-27T21:06:25.545Z"
+    },
+    {
+      "objectId": "WHunfetROg",
+      "Year": 2016,
+      "Make": "Buick",
+      "Model": "LaCrosse",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "serzrm8JXJ",
+      "Year": 2020,
+      "Make": "Buick",
+      "Model": "Envision",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.545Z",
+      "updatedAt": "2020-01-27T21:06:25.545Z"
+    },
+    {
+      "objectId": "ZpFKy8q9eN",
+      "Year": 2017,
+      "Make": "Buick",
+      "Model": "Envision",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "A3Pt21bizF",
+      "Year": 2018,
+      "Make": "Buick",
+      "Model": "Encore",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "YSBkcZqaNT",
+      "Year": 2004,
+      "Make": "Buick",
+      "Model": "Rainier",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "O5LWod8KOv",
+      "Year": 2016,
+      "Make": "Buick",
+      "Model": "Envision",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "KbgGfcdjqa",
+      "Year": 2018,
+      "Make": "Buick",
+      "Model": "Envision",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "EdzCNdtkSf",
+      "Year": 2017,
+      "Make": "Buick",
+      "Model": "Enclave",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "BdOOvDMqTE",
+      "Year": 2017,
+      "Make": "Buick",
+      "Model": "Verano",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "ULOsJpBRTp",
+      "Year": 2019,
+      "Make": "Buick",
+      "Model": "Cascada",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:06:25.545Z",
+      "updatedAt": "2020-01-27T21:06:25.545Z"
+    },
+    {
+      "objectId": "3eoxazY7om",
+      "Year": 2016,
+      "Make": "Buick",
+      "Model": "Enclave",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "OK1F0GwpVP",
+      "Year": 2014,
+      "Make": "Buick",
+      "Model": "LaCrosse",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "bYKriMpnf2",
+      "Year": 2016,
+      "Make": "Buick",
+      "Model": "Encore",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "Q0b7cCzhlq",
+      "Year": 2010,
+      "Make": "Buick",
+      "Model": "Lucerne",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "bGIBUnFQG6",
+      "Year": 2019,
+      "Make": "Buick",
+      "Model": "Regal TourX",
+      "Category": "Wagon",
+      "createdAt": "2020-01-27T21:06:25.545Z",
+      "updatedAt": "2020-01-27T21:06:25.545Z"
+    },
+    {
+      "objectId": "TkYAjeL3Ya",
+      "Year": 2018,
+      "Make": "Buick",
+      "Model": "LaCrosse",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "xZaQ1qHDoC",
+      "Year": 2019,
+      "Make": "Buick",
+      "Model": "Envision",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.545Z",
+      "updatedAt": "2020-01-27T21:06:25.545Z"
+    },
+    {
+      "objectId": "G0DjCsEGbI",
+      "Year": 2013,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "HwIJZGofKz",
+      "Year": 2019,
+      "Make": "Buick",
+      "Model": "Enclave",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.545Z",
+      "updatedAt": "2020-01-27T21:06:25.545Z"
+    },
+    {
+      "objectId": "YAWDvWxSyp",
+      "Year": 2015,
+      "Make": "Buick",
+      "Model": "LaCrosse",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "NmPz90Apv0",
+      "Year": 2015,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "ZwniIEjJPW",
+      "Year": 2018,
+      "Make": "Buick",
+      "Model": "Regal Sportback",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "rlnsTNAapF",
+      "Year": 2012,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "AmGDsLj9MO",
+      "Year": 2018,
+      "Make": "Buick",
+      "Model": "Cascada",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:06:25.545Z",
+      "updatedAt": "2020-01-27T21:06:25.545Z"
+    },
+    {
+      "objectId": "g1gDiOJH1R",
+      "Year": 2018,
+      "Make": "Buick",
+      "Model": "Enclave",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.545Z",
+      "updatedAt": "2020-01-27T21:06:25.545Z"
+    },
+    {
+      "objectId": "FYC9gTIQxk",
+      "Year": 2013,
+      "Make": "Buick",
+      "Model": "Verano",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "m1m9cVczU1",
+      "Year": 2016,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "rKnjDACTCc",
+      "Year": 2014,
+      "Make": "Buick",
+      "Model": "Enclave",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "AEQrl6wGHp",
+      "Year": 2005,
+      "Make": "Buick",
+      "Model": "Park Avenue",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "7HIvhobHHS",
+      "Year": 2013,
+      "Make": "Buick",
+      "Model": "Enclave",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "Ghpo6giQ4K",
+      "Year": 2005,
+      "Make": "Buick",
+      "Model": "Rainier",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "uNDznqwzDv",
+      "Year": 2013,
+      "Make": "Buick",
+      "Model": "LaCrosse",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "qb4LPuxrtN",
+      "Year": 2011,
+      "Make": "Buick",
+      "Model": "Enclave",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "qrd64z90TF",
+      "Year": 2012,
+      "Make": "Buick",
+      "Model": "Enclave",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "KAvUS2pp87",
+      "Year": 2015,
+      "Make": "Buick",
+      "Model": "Verano",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "22DCi4BOjB",
+      "Year": 2014,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "97pGEkTr7F",
+      "Year": 2011,
+      "Make": "Buick",
+      "Model": "Lucerne",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "8JHioA19Dx",
+      "Year": 2004,
+      "Make": "Buick",
+      "Model": "Park Avenue",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "dGrMYJV7Z3",
+      "Year": 2011,
+      "Make": "Buick",
+      "Model": "LaCrosse",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "Us4gAzlxtu",
+      "Year": 2000,
+      "Make": "Buick",
+      "Model": "Century",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.547Z",
+      "updatedAt": "2020-01-27T21:06:25.547Z"
+    },
+    {
+      "objectId": "sJzqbonYNX",
+      "Year": 2003,
+      "Make": "Buick",
+      "Model": "Century",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "gUG3ZRErdB",
+      "Year": 2005,
+      "Make": "Buick",
+      "Model": "Terraza",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "tqZPThe5jx",
+      "Year": 2010,
+      "Make": "Buick",
+      "Model": "LaCrosse",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "8Gn2Y2D3Pe",
+      "Year": 2004,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "8jiBYBSe8r",
+      "Year": 2014,
+      "Make": "Buick",
+      "Model": "Encore",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "Szmmd73G0B",
+      "Year": 2003,
+      "Make": "Buick",
+      "Model": "LeSabre",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "5ECwIeC6VS",
+      "Year": 2001,
+      "Make": "Buick",
+      "Model": "LeSabre",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.547Z",
+      "updatedAt": "2020-01-27T21:06:25.547Z"
+    },
+    {
+      "objectId": "vIucbWHpG8",
+      "Year": 2016,
+      "Make": "Buick",
+      "Model": "Verano",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "cfaX0ZahRV",
+      "Year": 2006,
+      "Make": "Buick",
+      "Model": "Rainier",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "JKwI4J6EGf",
+      "Year": 2006,
+      "Make": "Buick",
+      "Model": "Rendezvous",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "VU5jI6ujk6",
+      "Year": 2014,
+      "Make": "Buick",
+      "Model": "Verano",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "P1DNhjBbdZ",
+      "Year": 2002,
+      "Make": "Buick",
+      "Model": "Park Avenue",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "F9dmEUwCSg",
+      "Year": 2005,
+      "Make": "Buick",
+      "Model": "Rendezvous",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "0czdxOhbE5",
+      "Year": 2005,
+      "Make": "Buick",
+      "Model": "LaCrosse",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "myiKPHosWT",
+      "Year": 2007,
+      "Make": "Buick",
+      "Model": "Rendezvous",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "1UaYuEYyf4",
+      "Year": 2013,
+      "Make": "Buick",
+      "Model": "Encore",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "43wZCUigo8",
+      "Year": 2006,
+      "Make": "Buick",
+      "Model": "LaCrosse",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "21kpe3lidK",
+      "Year": 2015,
+      "Make": "Buick",
+      "Model": "Enclave",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "kOwoGjUCU6",
+      "Year": 2001,
+      "Make": "Buick",
+      "Model": "Park Avenue",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.547Z",
+      "updatedAt": "2020-01-27T21:06:25.547Z"
+    },
+    {
+      "objectId": "YC5Iv46YRC",
+      "Year": 2006,
+      "Make": "Buick",
+      "Model": "Lucerne",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "EKkTPQXmIw",
+      "Year": 2007,
+      "Make": "Buick",
+      "Model": "LaCrosse",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "OII3OcY5lE",
+      "Year": 2001,
+      "Make": "Buick",
+      "Model": "Century",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.547Z",
+      "updatedAt": "2020-01-27T21:06:25.547Z"
+    },
+    {
+      "objectId": "npG5DiMIjT",
+      "Year": 2003,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "J1fNHmH7RY",
+      "Year": 2011,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "ZxMDs0EVlI",
+      "Year": 2007,
+      "Make": "Buick",
+      "Model": "Rainier",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "uoPtTf2JpD",
+      "Year": 2001,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.547Z",
+      "updatedAt": "2020-01-27T21:06:25.547Z"
+    },
+    {
+      "objectId": "EybF9qKh35",
+      "Year": 2008,
+      "Make": "Buick",
+      "Model": "Enclave",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "FKBxvGKBDr",
+      "Year": 2002,
+      "Make": "Buick",
+      "Model": "Rendezvous",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "tQNy6Iyolt",
+      "Year": 2002,
+      "Make": "Buick",
+      "Model": "Century",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "G92Ep4NHZb",
+      "Year": 2007,
+      "Make": "Buick",
+      "Model": "Terraza",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "haMZFQbHLa",
+      "Year": 2004,
+      "Make": "Buick",
+      "Model": "LeSabre",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "V5jsOZC3bS",
+      "Year": 2016,
+      "Make": "Buick",
+      "Model": "Cascada",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "rS0CqvwWI9",
+      "Year": 2007,
+      "Make": "Buick",
+      "Model": "Lucerne",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "DZEbf4mhkZ",
+      "Year": 2010,
+      "Make": "Buick",
+      "Model": "Enclave",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "IuC2cZQ7Go",
+      "Year": 2003,
+      "Make": "Buick",
+      "Model": "Park Avenue",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "pK5IUPQAfD",
+      "Year": 2005,
+      "Make": "Buick",
+      "Model": "Century",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "nxmR6fkjPw",
+      "Year": 2008,
+      "Make": "Buick",
+      "Model": "Lucerne",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "8gHF1SHTDf",
+      "Year": 2009,
+      "Make": "Buick",
+      "Model": "Enclave",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "6IOHflEQZc",
+      "Year": 2006,
+      "Make": "Buick",
+      "Model": "Terraza",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "BzDZEejvaL",
+      "Year": 2003,
+      "Make": "Buick",
+      "Model": "Rendezvous",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "MG10U9nx2D",
+      "Year": 2002,
+      "Make": "Buick",
+      "Model": "LeSabre",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "K7w5nndJVa",
+      "Year": 2009,
+      "Make": "Buick",
+      "Model": "Lucerne",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "d0UG6Yr9AF",
+      "Year": 2008,
+      "Make": "Buick",
+      "Model": "LaCrosse",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "GCT42hUQqD",
+      "Year": 2012,
+      "Make": "Buick",
+      "Model": "LaCrosse",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "x3ICBQpHER",
+      "Year": 2004,
+      "Make": "Buick",
+      "Model": "Rendezvous",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "Tz6rqbLX73",
+      "Year": 2005,
+      "Make": "Buick",
+      "Model": "LeSabre",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "Hli0ILG8Pw",
+      "Year": 2002,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "jn6LvNZdQu",
+      "Year": 2004,
+      "Make": "Buick",
+      "Model": "Century",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "UKTfG1MHFZ",
+      "Year": 2012,
+      "Make": "Buick",
+      "Model": "Verano",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.546Z",
+      "updatedAt": "2020-01-27T21:06:25.546Z"
+    },
+    {
+      "objectId": "5wePNJ88FM",
+      "Year": 2000,
+      "Make": "Buick",
+      "Model": "LeSabre",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "1mWgyAp7Xs",
+      "Year": 1999,
+      "Make": "Buick",
+      "Model": "Century",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "SKbfIuTZco",
+      "Year": 1998,
+      "Make": "Buick",
+      "Model": "LeSabre",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "6RCtbAVT8U",
+      "Year": 1999,
+      "Make": "Buick",
+      "Model": "Riviera",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "5SWO0reJEL",
+      "Year": 1999,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "rfCWTo8R0t",
+      "Year": 1999,
+      "Make": "Buick",
+      "Model": "Park Avenue",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "anmOFW9Ych",
+      "Year": 2000,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "8MrsXlPGRI",
+      "Year": 1998,
+      "Make": "Buick",
+      "Model": "Park Avenue",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "C0csJbz7yd",
+      "Year": 2000,
+      "Make": "Buick",
+      "Model": "Park Avenue",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "59M2EFlreg",
+      "Year": 1998,
+      "Make": "Buick",
+      "Model": "Century",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "7R4fPdRQu3",
+      "Year": 1999,
+      "Make": "Buick",
+      "Model": "LeSabre",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "ZEneDYx0Qb",
+      "Year": 1997,
+      "Make": "Buick",
+      "Model": "Skylark",
+      "Category": "Sedan, Coupe",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "1SlHxoEBV1",
+      "Year": 1998,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "WzvsBb4Dbj",
+      "Year": 1998,
+      "Make": "Buick",
+      "Model": "Skylark",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "7IMiTyJDQi",
+      "Year": 1997,
+      "Make": "Buick",
+      "Model": "Riviera",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "EUK4UoaUKV",
+      "Year": 1997,
+      "Make": "Buick",
+      "Model": "Century",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "ENO0z36ZrD",
+      "Year": 1997,
+      "Make": "Buick",
+      "Model": "LeSabre",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "3yawQlCLnu",
+      "Year": 1998,
+      "Make": "Buick",
+      "Model": "Riviera",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "DF4AIp2lH2",
+      "Year": 1997,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "h4UxgWiIiI",
+      "Year": 1996,
+      "Make": "Buick",
+      "Model": "Roadmaster",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "R66ADtNyss",
+      "Year": 1996,
+      "Make": "Buick",
+      "Model": "LeSabre",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "IOEdpL4K1V",
+      "Year": 1993,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Sedan, Coupe",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "Bl7TFmHLiD",
+      "Year": 1993,
+      "Make": "Buick",
+      "Model": "Park Avenue",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "nu2klkNJFn",
+      "Year": 1995,
+      "Make": "Buick",
+      "Model": "Century",
+      "Category": "Wagon, Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "DHDJYO0Y8F",
+      "Year": 1994,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Sedan, Coupe",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "i9lIrMVYvw",
+      "Year": 1996,
+      "Make": "Buick",
+      "Model": "Park Avenue",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "xx1REL45Wh",
+      "Year": 1995,
+      "Make": "Buick",
+      "Model": "Skylark",
+      "Category": "Sedan, Coupe",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "7vNZBDJQsF",
+      "Year": 1992,
+      "Make": "Buick",
+      "Model": "LeSabre",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "Hv4RWEGSFR",
+      "Year": 1992,
+      "Make": "Buick",
+      "Model": "Park Avenue",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "MIGbkIEbTr",
+      "Year": 1995,
+      "Make": "Buick",
+      "Model": "Park Avenue",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "LpfD6i1Kys",
+      "Year": 1995,
+      "Make": "Buick",
+      "Model": "LeSabre",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "aDKKN94LLI",
+      "Year": 1995,
+      "Make": "Buick",
+      "Model": "Riviera",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "JWg7F3csfR",
+      "Year": 1992,
+      "Make": "Buick",
+      "Model": "Riviera",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "3E8RlgdKv8",
+      "Year": 1996,
+      "Make": "Buick",
+      "Model": "Skylark",
+      "Category": "Coupe, Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "0i9xRIJI1l",
+      "Year": 1996,
+      "Make": "Buick",
+      "Model": "Century",
+      "Category": "Wagon, Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "6wf2kMraKu",
+      "Year": 1994,
+      "Make": "Buick",
+      "Model": "Century",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "ARSwA2rcG6",
+      "Year": 1994,
+      "Make": "Buick",
+      "Model": "Skylark",
+      "Category": "Sedan, Coupe",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "bDttGPG6VK",
+      "Year": 1996,
+      "Make": "Buick",
+      "Model": "Riviera",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "BRC4k0pR4U",
+      "Year": 1993,
+      "Make": "Buick",
+      "Model": "LeSabre",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "YKueRTwHNI",
+      "Year": 1993,
+      "Make": "Buick",
+      "Model": "Century",
+      "Category": "Sedan, Wagon, Coupe",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "XfMBtMMaNe",
+      "Year": 1992,
+      "Make": "Buick",
+      "Model": "Century",
+      "Category": "Coupe, Sedan, Wagon",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "iE3sl9LOrs",
+      "Year": 1993,
+      "Make": "Buick",
+      "Model": "Skylark",
+      "Category": "Sedan, Coupe",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "1OLIhQhVCQ",
+      "Year": 1995,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Sedan, Coupe",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "J0jkfDX8XC",
+      "Year": 1994,
+      "Make": "Buick",
+      "Model": "Park Avenue",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "DeyqjO5cD8",
+      "Year": 1997,
+      "Make": "Buick",
+      "Model": "Park Avenue",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "PoA5HYwXq1",
+      "Year": 1993,
+      "Make": "Buick",
+      "Model": "Roadmaster",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "YQCiZbApKR",
+      "Year": 1993,
+      "Make": "Buick",
+      "Model": "Riviera",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "IhFor4wQEJ",
+      "Year": 1992,
+      "Make": "Buick",
+      "Model": "Roadmaster",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "N7goWanuZp",
+      "Year": 1996,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Coupe, Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "xgpYBS0YTP",
+      "Year": 1995,
+      "Make": "Buick",
+      "Model": "Roadmaster",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "NXeaI2w521",
+      "Year": 1992,
+      "Make": "Buick",
+      "Model": "Regal",
+      "Category": "Coupe, Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "bHOTrUsBby",
+      "Year": 1994,
+      "Make": "Buick",
+      "Model": "LeSabre",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "FQIkfHqcv0",
+      "Year": 1994,
+      "Make": "Buick",
+      "Model": "Roadmaster",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "GfpGWWzyW7",
+      "Year": 1992,
+      "Make": "Buick",
+      "Model": "Skylark",
+      "Category": "Sedan, Coupe",
+      "createdAt": "2020-01-27T21:06:25.760Z",
+      "updatedAt": "2020-01-27T21:06:25.760Z"
+    },
+    {
+      "objectId": "sCHhCWnU0z",
+      "Year": 2021,
+      "Make": "Buick",
+      "Model": "Enclave",
+      "Category": "SUV",
+      "createdAt": "2021-04-15T13:18:30.324Z",
+      "updatedAt": "2021-04-15T13:18:30.324Z"
+    },
+    {
+      "objectId": "qEF5AqXCt8",
+      "Year": 2021,
+      "Make": "Buick",
+      "Model": "Encore",
+      "Category": "SUV",
+      "createdAt": "2021-04-15T13:18:30.324Z",
+      "updatedAt": "2021-04-15T13:18:30.324Z"
+    },
+    {
+      "objectId": "qbUCnTfJC8",
+      "Year": 2021,
+      "Make": "Buick",
+      "Model": "Encore GX",
+      "Category": "SUV",
+      "createdAt": "2021-04-15T13:18:30.324Z",
+      "updatedAt": "2021-04-15T13:18:30.324Z"
+    },
+    {
+      "objectId": "tOf2CssUHd",
+      "Year": 2021,
+      "Make": "Buick",
+      "Model": "Envision",
+      "Category": "SUV",
+      "createdAt": "2021-04-15T13:18:30.324Z",
+      "updatedAt": "2021-04-15T13:18:30.324Z"
+    }
+  ]
+}

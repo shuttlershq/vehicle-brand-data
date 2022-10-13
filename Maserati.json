@@ -1,0 +1,346 @@
+{
+  "results": [
+    {
+      "objectId": "frcdyxhxEF",
+      "Year": 2014,
+      "Make": "Maserati",
+      "Model": "Quattroporte",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "AjqzScoRcA",
+      "Year": 2019,
+      "Make": "Maserati",
+      "Model": "Ghibli",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "DzWoSbG0AO",
+      "Year": 2010,
+      "Make": "Maserati",
+      "Model": "GranTurismo",
+      "Category": "Convertible, Coupe",
+      "createdAt": "2020-01-27T21:48:10.449Z",
+      "updatedAt": "2020-01-27T21:48:10.449Z"
+    },
+    {
+      "objectId": "HjRdRARf7E",
+      "Year": 2005,
+      "Make": "Maserati",
+      "Model": "GranSport",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:48:10.450Z",
+      "updatedAt": "2020-01-27T21:48:10.450Z"
+    },
+    {
+      "objectId": "IKhUd4mfSA",
+      "Year": 2016,
+      "Make": "Maserati",
+      "Model": "GranTurismo",
+      "Category": "Coupe, Convertible",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "8ildZpU5f4",
+      "Year": 2017,
+      "Make": "Maserati",
+      "Model": "Ghibli",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "viiVQbcYtv",
+      "Year": 2015,
+      "Make": "Maserati",
+      "Model": "GranTurismo",
+      "Category": "Coupe, Convertible",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "FFwnFGcTGM",
+      "Year": 2006,
+      "Make": "Maserati",
+      "Model": "Coupe",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:48:10.450Z",
+      "updatedAt": "2020-01-27T21:48:10.450Z"
+    },
+    {
+      "objectId": "K6poOFBbxi",
+      "Year": 2019,
+      "Make": "Maserati",
+      "Model": "Levante",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "47Td3dJRsh",
+      "Year": 2017,
+      "Make": "Maserati",
+      "Model": "GranTurismo",
+      "Category": "Coupe, Convertible",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "rJibmHDsdA",
+      "Year": 2018,
+      "Make": "Maserati",
+      "Model": "GranTurismo",
+      "Category": "Coupe, Convertible",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "HAxTQQJiI0",
+      "Year": 2018,
+      "Make": "Maserati",
+      "Model": "Quattroporte",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "IwLRnn7QNr",
+      "Year": 2013,
+      "Make": "Maserati",
+      "Model": "Quattroporte",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "SyEn20Z5pB",
+      "Year": 2010,
+      "Make": "Maserati",
+      "Model": "Quattroporte",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.450Z",
+      "updatedAt": "2020-01-27T21:48:10.450Z"
+    },
+    {
+      "objectId": "WIppGt0BDI",
+      "Year": 2017,
+      "Make": "Maserati",
+      "Model": "Quattroporte",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "YKXWnY9YoR",
+      "Year": 2015,
+      "Make": "Maserati",
+      "Model": "Ghibli",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "aRJxS0JFOp",
+      "Year": 2014,
+      "Make": "Maserati",
+      "Model": "GranTurismo",
+      "Category": "Convertible, Coupe",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "ODZmqSKuXU",
+      "Year": 2016,
+      "Make": "Maserati",
+      "Model": "Quattroporte",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "AWnJvyzHlA",
+      "Year": 2009,
+      "Make": "Maserati",
+      "Model": "GranTurismo",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:48:10.450Z",
+      "updatedAt": "2020-01-27T21:48:10.450Z"
+    },
+    {
+      "objectId": "ABy51khx0T",
+      "Year": 2007,
+      "Make": "Maserati",
+      "Model": "Quattroporte",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.450Z",
+      "updatedAt": "2020-01-27T21:48:10.450Z"
+    },
+    {
+      "objectId": "WXed3bbYAW",
+      "Year": 2015,
+      "Make": "Maserati",
+      "Model": "Quattroporte",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "187ALBoG7z",
+      "Year": 2013,
+      "Make": "Maserati",
+      "Model": "GranTurismo",
+      "Category": "Coupe, Convertible",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "YEiJe0niLW",
+      "Year": 2005,
+      "Make": "Maserati",
+      "Model": "Quattroporte",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.450Z",
+      "updatedAt": "2020-01-27T21:48:10.450Z"
+    },
+    {
+      "objectId": "3Zs7WBvFDS",
+      "Year": 2018,
+      "Make": "Maserati",
+      "Model": "Ghibli",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "Nfa5Kh03Gd",
+      "Year": 2011,
+      "Make": "Maserati",
+      "Model": "GranTurismo",
+      "Category": "Coupe, Convertible",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "ybaG75dKwA",
+      "Year": 2017,
+      "Make": "Maserati",
+      "Model": "Levante",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "qnWkqxhNhE",
+      "Year": 2014,
+      "Make": "Maserati",
+      "Model": "Ghibli",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "uYXdOVspGL",
+      "Year": 2006,
+      "Make": "Maserati",
+      "Model": "Quattroporte",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.450Z",
+      "updatedAt": "2020-01-27T21:48:10.450Z"
+    },
+    {
+      "objectId": "WLaUqIJggP",
+      "Year": 2012,
+      "Make": "Maserati",
+      "Model": "Quattroporte",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "KIbrqPi8bq",
+      "Year": 2008,
+      "Make": "Maserati",
+      "Model": "GranTurismo",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:48:10.450Z",
+      "updatedAt": "2020-01-27T21:48:10.450Z"
+    },
+    {
+      "objectId": "N3cZ7fG2IA",
+      "Year": 2005,
+      "Make": "Maserati",
+      "Model": "Coupe",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:48:10.450Z",
+      "updatedAt": "2020-01-27T21:48:10.450Z"
+    },
+    {
+      "objectId": "GDI4NsLFkv",
+      "Year": 2012,
+      "Make": "Maserati",
+      "Model": "GranTurismo",
+      "Category": "Coupe, Convertible",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "7uJ28GeoIE",
+      "Year": 2018,
+      "Make": "Maserati",
+      "Model": "Levante",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "ShDRqHuRhH",
+      "Year": 2009,
+      "Make": "Maserati",
+      "Model": "Quattroporte",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.450Z",
+      "updatedAt": "2020-01-27T21:48:10.450Z"
+    },
+    {
+      "objectId": "9OGiGWzrhC",
+      "Year": 2016,
+      "Make": "Maserati",
+      "Model": "Ghibli",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.448Z",
+      "updatedAt": "2020-01-27T21:48:10.448Z"
+    },
+    {
+      "objectId": "vNVihnEpho",
+      "Year": 2008,
+      "Make": "Maserati",
+      "Model": "Quattroporte",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.450Z",
+      "updatedAt": "2020-01-27T21:48:10.450Z"
+    },
+    {
+      "objectId": "8ytX39lEKi",
+      "Year": 2011,
+      "Make": "Maserati",
+      "Model": "Quattroporte",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:48:10.449Z",
+      "updatedAt": "2020-01-27T21:48:10.449Z"
+    },
+    {
+      "objectId": "gPdKVkPbAV",
+      "Year": 2006,
+      "Make": "Maserati",
+      "Model": "GranSport",
+      "Category": "Coupe, Convertible",
+      "createdAt": "2020-01-27T21:48:10.450Z",
+      "updatedAt": "2020-01-27T21:48:10.450Z"
+    }
+  ]
+}

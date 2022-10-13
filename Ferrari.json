@@ -1,0 +1,526 @@
+{
+  "results": [
+    {
+      "objectId": "fM1fJzf1Cv",
+      "Year": 2017,
+      "Make": "Ferrari",
+      "Model": "488 Spider",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "DEUhkh0p7D",
+      "Year": 2018,
+      "Make": "Ferrari",
+      "Model": "Portofino",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "fv3gSH4JQ2",
+      "Year": 2015,
+      "Make": "Ferrari",
+      "Model": "F12berlinetta",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "jK5b77De0W",
+      "Year": 2013,
+      "Make": "Ferrari",
+      "Model": "FF",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "7f6NuNcz5Q",
+      "Year": 2017,
+      "Make": "Ferrari",
+      "Model": "F12berlinetta",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "nTSt68sCf3",
+      "Year": 2017,
+      "Make": "Ferrari",
+      "Model": "California",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "tNHeWkCVBr",
+      "Year": 2014,
+      "Make": "Ferrari",
+      "Model": "458 Spider",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "bIBwtlieZU",
+      "Year": 2018,
+      "Make": "Ferrari",
+      "Model": "488 GTB",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "Wgdqjml7DI",
+      "Year": 2014,
+      "Make": "Ferrari",
+      "Model": "California",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "ekXXbeRoBo",
+      "Year": 2017,
+      "Make": "Ferrari",
+      "Model": "488 GTB",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "HHIrCGXZwK",
+      "Year": 2016,
+      "Make": "Ferrari",
+      "Model": "F12berlinetta",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "c5EkvaLycm",
+      "Year": 2012,
+      "Make": "Ferrari",
+      "Model": "458 Italia",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "zPXitqAdNW",
+      "Year": 2015,
+      "Make": "Ferrari",
+      "Model": "458 Spider",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "vklG3yKEB8",
+      "Year": 2009,
+      "Make": "Ferrari",
+      "Model": "430 Scuderia",
+      "Category": "Coupe, Convertible",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "toqMnoBmwx",
+      "Year": 2017,
+      "Make": "Ferrari",
+      "Model": "GTC4Lusso",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "zKRtwTrRhg",
+      "Year": 2013,
+      "Make": "Ferrari",
+      "Model": "458 Spider",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "jjAwUp8kCV",
+      "Year": 2008,
+      "Make": "Ferrari",
+      "Model": "612 Scaglietti",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "LKPrbzGL10",
+      "Year": 2010,
+      "Make": "Ferrari",
+      "Model": "599 GTB Fiorano",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "IUk49HdN3d",
+      "Year": 2016,
+      "Make": "Ferrari",
+      "Model": "FF",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "U0p2FL2vCC",
+      "Year": 2011,
+      "Make": "Ferrari",
+      "Model": "458 Italia",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "7bFb3FFwsW",
+      "Year": 2018,
+      "Make": "Ferrari",
+      "Model": "812 Superfast",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "lZUEhUA36W",
+      "Year": 2014,
+      "Make": "Ferrari",
+      "Model": "458 Italia",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "lGV7S4uK2M",
+      "Year": 2013,
+      "Make": "Ferrari",
+      "Model": "458 Italia",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "CocAN7bOSX",
+      "Year": 2011,
+      "Make": "Ferrari",
+      "Model": "599 GTO",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "MxXuB4iAGW",
+      "Year": 2013,
+      "Make": "Ferrari",
+      "Model": "F12berlinetta",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "hiOoSPOsJm",
+      "Year": 2016,
+      "Make": "Ferrari",
+      "Model": "488 GTB",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "NKvukc57RJ",
+      "Year": 2010,
+      "Make": "Ferrari",
+      "Model": "California",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "zoS33eovTc",
+      "Year": 2008,
+      "Make": "Ferrari",
+      "Model": "599 GTB Fiorano",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "KWkB7yDPvI",
+      "Year": 2018,
+      "Make": "Ferrari",
+      "Model": "GTC4Lusso",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "FxPeJ9EFtA",
+      "Year": 2015,
+      "Make": "Ferrari",
+      "Model": "458 Speciale",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "xRTz9AU9t9",
+      "Year": 2015,
+      "Make": "Ferrari",
+      "Model": "FF",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "sOxtlbNolP",
+      "Year": 2015,
+      "Make": "Ferrari",
+      "Model": "California",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "ZjKDg2nZWF",
+      "Year": 2011,
+      "Make": "Ferrari",
+      "Model": "599 GTB Fiorano",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "DYSl0vdjpg",
+      "Year": 2008,
+      "Make": "Ferrari",
+      "Model": "430 Scuderia",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "hhoAbsw8NK",
+      "Year": 2010,
+      "Make": "Ferrari",
+      "Model": "612 Scaglietti",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "BpvhpRC7LY",
+      "Year": 2016,
+      "Make": "Ferrari",
+      "Model": "California",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "ldMdBF11Nr",
+      "Year": 2009,
+      "Make": "Ferrari",
+      "Model": "F430",
+      "Category": "Coupe, Convertible",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "qnTjIH80Ap",
+      "Year": 2009,
+      "Make": "Ferrari",
+      "Model": "California",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "eGd05nCEKo",
+      "Year": 2014,
+      "Make": "Ferrari",
+      "Model": "458 Speciale",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "TgelGQxRKG",
+      "Year": 2013,
+      "Make": "Ferrari",
+      "Model": "California",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "mtGFLDbDXX",
+      "Year": 2012,
+      "Make": "Ferrari",
+      "Model": "FF",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "C7VxtHNLZx",
+      "Year": 2014,
+      "Make": "Ferrari",
+      "Model": "F12berlinetta",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "EFebcqqNPX",
+      "Year": 2014,
+      "Make": "Ferrari",
+      "Model": "FF",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "BE7vsIvlaZ",
+      "Year": 2015,
+      "Make": "Ferrari",
+      "Model": "458 Italia",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "841eNXe2cp",
+      "Year": 2016,
+      "Make": "Ferrari",
+      "Model": "488 Spider",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "3jCTkADJgf",
+      "Year": 2018,
+      "Make": "Ferrari",
+      "Model": "488 Spider",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "BukD5h2Saj",
+      "Year": 2008,
+      "Make": "Ferrari",
+      "Model": "F430",
+      "Category": "Convertible, Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "4l3rlCfRNw",
+      "Year": 2012,
+      "Make": "Ferrari",
+      "Model": "California",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "ZaIDE00ckq",
+      "Year": 2010,
+      "Make": "Ferrari",
+      "Model": "458 Italia",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "4vFrZAm9lO",
+      "Year": 2006,
+      "Make": "Ferrari",
+      "Model": "612 Scaglietti",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.520Z",
+      "updatedAt": "2020-01-27T21:17:28.520Z"
+    },
+    {
+      "objectId": "WJzYEGURsG",
+      "Year": 2009,
+      "Make": "Ferrari",
+      "Model": "599 GTB Fiorano",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "8tLYg8QWx7",
+      "Year": 2007,
+      "Make": "Ferrari",
+      "Model": "612 Scaglietti",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.520Z",
+      "updatedAt": "2020-01-27T21:17:28.520Z"
+    },
+    {
+      "objectId": "y604GF9UJR",
+      "Year": 2011,
+      "Make": "Ferrari",
+      "Model": "612 Scaglietti",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "tb6IWfQneO",
+      "Year": 2011,
+      "Make": "Ferrari",
+      "Model": "California",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "Oe6WmMNbY9",
+      "Year": 2009,
+      "Make": "Ferrari",
+      "Model": "612 Scaglietti",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "qcrW7EMkEl",
+      "Year": 2007,
+      "Make": "Ferrari",
+      "Model": "F430",
+      "Category": "Convertible, Coupe",
+      "createdAt": "2020-01-27T21:17:28.520Z",
+      "updatedAt": "2020-01-27T21:17:28.520Z"
+    },
+    {
+      "objectId": "s7nzFMZlpx",
+      "Year": 2007,
+      "Make": "Ferrari",
+      "Model": "599 GTB Fiorano",
+      "Category": "Coupe",
+      "createdAt": "2020-01-27T21:17:28.518Z",
+      "updatedAt": "2020-01-27T21:17:28.518Z"
+    },
+    {
+      "objectId": "QbgpBhY5kl",
+      "Year": 2006,
+      "Make": "Ferrari",
+      "Model": "F430",
+      "Category": "Convertible, Coupe",
+      "createdAt": "2020-01-27T21:17:28.520Z",
+      "updatedAt": "2020-01-27T21:17:28.520Z"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "results": [
+    {
+      "objectId": "iA4AH0dJes",
+      "Year": 2019,
+      "Make": "Genesis",
+      "Model": "G80",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:24:21.325Z",
+      "updatedAt": "2020-01-27T21:24:21.325Z"
+    },
+    {
+      "objectId": "f64AMDv9nH",
+      "Year": 2020,
+      "Make": "Genesis",
+      "Model": "G70",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:24:21.325Z",
+      "updatedAt": "2020-01-27T21:24:21.325Z"
+    },
+    {
+      "objectId": "V3q3HChc98",
+      "Year": 2017,
+      "Make": "Genesis",
+      "Model": "G80",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:24:21.325Z",
+      "updatedAt": "2020-01-27T21:24:21.325Z"
+    },
+    {
+      "objectId": "3hvjfv2lX1",
+      "Year": 2020,
+      "Make": "Genesis",
+      "Model": "G80",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:24:21.325Z",
+      "updatedAt": "2020-01-27T21:24:21.325Z"
+    },
+    {
+      "objectId": "yYygsOmk9O",
+      "Year": 2018,
+      "Make": "Genesis",
+      "Model": "G80",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:24:21.325Z",
+      "updatedAt": "2020-01-27T21:24:21.325Z"
+    },
+    {
+      "objectId": "4DCLvMYLKW",
+      "Year": 2018,
+      "Make": "Genesis",
+      "Model": "G90",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:24:21.325Z",
+      "updatedAt": "2020-01-27T21:24:21.325Z"
+    },
+    {
+      "objectId": "StWZpq3aU3",
+      "Year": 2017,
+      "Make": "Genesis",
+      "Model": "G90",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:24:21.325Z",
+      "updatedAt": "2020-01-27T21:24:21.325Z"
+    },
+    {
+      "objectId": "8iGHstZWKY",
+      "Year": 2019,
+      "Make": "Genesis",
+      "Model": "G90",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:24:21.325Z",
+      "updatedAt": "2020-01-27T21:24:21.325Z"
+    },
+    {
+      "objectId": "KsV34F7w0k",
+      "Year": 2019,
+      "Make": "Genesis",
+      "Model": "G70",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T21:24:21.325Z",
+      "updatedAt": "2020-01-27T21:24:21.325Z"
+    },
+    {
+      "objectId": "9zjoF8UHZd",
+      "Year": 2021,
+      "Make": "Genesis",
+      "Model": "G70",
+      "Category": "Sedan",
+      "createdAt": "2021-04-15T13:22:16.306Z",
+      "updatedAt": "2021-04-15T13:22:16.306Z"
+    },
+    {
+      "objectId": "X69B6CRfTt",
+      "Year": 2021,
+      "Make": "Genesis",
+      "Model": "G80",
+      "Category": "Sedan",
+      "createdAt": "2021-04-15T13:22:16.306Z",
+      "updatedAt": "2021-04-15T13:22:16.306Z"
+    },
+    {
+      "objectId": "4DOoOaa2pQ",
+      "Year": 2021,
+      "Make": "Genesis",
+      "Model": "G90",
+      "Category": "Sedan",
+      "createdAt": "2021-04-15T13:22:16.306Z",
+      "updatedAt": "2021-04-15T13:22:16.306Z"
+    },
+    {
+      "objectId": "B7YQ0l7F1I",
+      "Year": 2021,
+      "Make": "Genesis",
+      "Model": "GV80",
+      "Category": "SUV",
+      "createdAt": "2021-04-15T13:22:16.306Z",
+      "updatedAt": "2021-04-15T13:22:16.306Z"
+    }
+  ]
+}

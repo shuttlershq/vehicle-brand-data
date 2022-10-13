@@ -1,0 +1,400 @@
+{
+  "results": [
+    {
+      "objectId": "2Odd8lpk5B",
+      "Year": 2018,
+      "Make": "FIAT",
+      "Model": "124 Spider",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "8HkBW3YXfd",
+      "Year": 2019,
+      "Make": "FIAT",
+      "Model": "500e",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "8Ehu8XMDx3",
+      "Year": 2019,
+      "Make": "FIAT",
+      "Model": "124 Spider",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:18:39.678Z",
+      "updatedAt": "2020-01-27T21:18:39.678Z"
+    },
+    {
+      "objectId": "Q8CmnBlYzv",
+      "Year": 2018,
+      "Make": "FIAT",
+      "Model": "500c Abarth",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "lJAHHUzutA",
+      "Year": 2019,
+      "Make": "FIAT",
+      "Model": "500X",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "GRGHH5082m",
+      "Year": 2019,
+      "Make": "FIAT",
+      "Model": "500c Abarth",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:18:39.678Z",
+      "updatedAt": "2020-01-27T21:18:39.678Z"
+    },
+    {
+      "objectId": "vTGdGEJ9Tu",
+      "Year": 2019,
+      "Make": "FIAT",
+      "Model": "500",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.678Z",
+      "updatedAt": "2020-01-27T21:18:39.678Z"
+    },
+    {
+      "objectId": "mLUJTVUSlr",
+      "Year": 2016,
+      "Make": "FIAT",
+      "Model": "500e",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "GMQmoDfaz9",
+      "Year": 2018,
+      "Make": "FIAT",
+      "Model": "500e",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "NrAGdxuoMD",
+      "Year": 2014,
+      "Make": "FIAT",
+      "Model": "500c",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "iz2LPKx0Gi",
+      "Year": 2017,
+      "Make": "FIAT",
+      "Model": "500e",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "jl4tyggBF9",
+      "Year": 2018,
+      "Make": "FIAT",
+      "Model": "500c",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "iD6tIBfMhN",
+      "Year": 2017,
+      "Make": "FIAT",
+      "Model": "500X",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "hrCBC7oehm",
+      "Year": 2019,
+      "Make": "FIAT",
+      "Model": "500c",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:18:39.678Z",
+      "updatedAt": "2020-01-27T21:18:39.678Z"
+    },
+    {
+      "objectId": "o69Cm9TK8j",
+      "Year": 2019,
+      "Make": "FIAT",
+      "Model": "500L",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "X36sROEamM",
+      "Year": 2016,
+      "Make": "FIAT",
+      "Model": "500",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "AbDr6UfFoJ",
+      "Year": 2019,
+      "Make": "FIAT",
+      "Model": "500 Abarth",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.678Z",
+      "updatedAt": "2020-01-27T21:18:39.678Z"
+    },
+    {
+      "objectId": "eSqgF2cCQP",
+      "Year": 2016,
+      "Make": "FIAT",
+      "Model": "500L",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "udeBDrgmi4",
+      "Year": 2017,
+      "Make": "FIAT",
+      "Model": "500 Abarth",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "MsfI4dzPlW",
+      "Year": 2014,
+      "Make": "FIAT",
+      "Model": "500 Abarth",
+      "Category": "Hatchback, Convertible",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "CtSO6Aobs1",
+      "Year": 2018,
+      "Make": "FIAT",
+      "Model": "500 Abarth",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "bGbmhcGmxl",
+      "Year": 2014,
+      "Make": "FIAT",
+      "Model": "500L",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "IkqJRuWKJs",
+      "Year": 2014,
+      "Make": "FIAT",
+      "Model": "500",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "eQhr8qfF0e",
+      "Year": 2017,
+      "Make": "FIAT",
+      "Model": "500",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "Y5M5FExF4V",
+      "Year": 2016,
+      "Make": "FIAT",
+      "Model": "500X",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "GEf8nZE2HV",
+      "Year": 2018,
+      "Make": "FIAT",
+      "Model": "500L",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "qfkdWUtFVb",
+      "Year": 2016,
+      "Make": "FIAT",
+      "Model": "500c",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "o5q4lyVZyx",
+      "Year": 2017,
+      "Make": "FIAT",
+      "Model": "124 Spider",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "hFkq6h1qra",
+      "Year": 2013,
+      "Make": "FIAT",
+      "Model": "500",
+      "Category": "Hatchback, Convertible",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "Y4XE3BuWUx",
+      "Year": 2017,
+      "Make": "FIAT",
+      "Model": "500L",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "3UxfDmBn59",
+      "Year": 2017,
+      "Make": "FIAT",
+      "Model": "500c",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "ryB90wx2Vg",
+      "Year": 2016,
+      "Make": "FIAT",
+      "Model": "500 Abarth",
+      "Category": "Hatchback, Convertible",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "a7qWQjSDTQ",
+      "Year": 2014,
+      "Make": "FIAT",
+      "Model": "500e",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "3GIOoJEdTD",
+      "Year": 2015,
+      "Make": "FIAT",
+      "Model": "500",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "TbQSah0O8Q",
+      "Year": 2018,
+      "Make": "FIAT",
+      "Model": "500",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "JBY1LOFeFA",
+      "Year": 2015,
+      "Make": "FIAT",
+      "Model": "500 Abarth",
+      "Category": "Hatchback, Convertible",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "WSE8ebaHxB",
+      "Year": 2017,
+      "Make": "FIAT",
+      "Model": "500c Abarth",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "BMs1uWRFqY",
+      "Year": 2018,
+      "Make": "FIAT",
+      "Model": "500X",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "B4dfX6tIOl",
+      "Year": 2015,
+      "Make": "FIAT",
+      "Model": "500e",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "ij3CyaUo3N",
+      "Year": 2015,
+      "Make": "FIAT",
+      "Model": "500c",
+      "Category": "Convertible",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "uXMiUNDru8",
+      "Year": 2015,
+      "Make": "FIAT",
+      "Model": "500L",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "b3jvvjkmE4",
+      "Year": 2013,
+      "Make": "FIAT",
+      "Model": "500e",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "1ndlkgJhTe",
+      "Year": 2012,
+      "Make": "FIAT",
+      "Model": "500",
+      "Category": "Hatchback, Convertible",
+      "createdAt": "2020-01-27T21:18:39.679Z",
+      "updatedAt": "2020-01-27T21:18:39.679Z"
+    },
+    {
+      "objectId": "drsodNfCr6",
+      "Year": 2021,
+      "Make": "FIAT",
+      "Model": "500X",
+      "Category": "SUV",
+      "createdAt": "2021-04-15T13:14:05.410Z",
+      "updatedAt": "2021-04-15T13:14:05.410Z"
+    }
+  ]
+}

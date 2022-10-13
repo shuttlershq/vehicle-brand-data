@@ -1,0 +1,895 @@
+{
+  "results": [
+    {
+      "objectId": "uzV6Y1rzWk",
+      "Year": 2012,
+      "Make": "Suzuki",
+      "Model": "Equator Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:17:08.155Z",
+      "updatedAt": "2020-01-27T22:17:08.155Z"
+    },
+    {
+      "objectId": "9WuMVAJ16D",
+      "Year": 2013,
+      "Make": "Suzuki",
+      "Model": "SX4",
+      "Category": "Sedan, Hatchback",
+      "createdAt": "2020-01-27T22:17:08.155Z",
+      "updatedAt": "2020-01-27T22:17:08.155Z"
+    },
+    {
+      "objectId": "BloSLWsHwy",
+      "Year": 2012,
+      "Make": "Suzuki",
+      "Model": "Grand Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.155Z",
+      "updatedAt": "2020-01-27T22:17:08.155Z"
+    },
+    {
+      "objectId": "RSsFKfxWHp",
+      "Year": 2009,
+      "Make": "Suzuki",
+      "Model": "Equator Extended Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "qKImnqDE40",
+      "Year": 2010,
+      "Make": "Suzuki",
+      "Model": "Equator Extended Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "iYbT9Cmn97",
+      "Year": 2006,
+      "Make": "Suzuki",
+      "Model": "Grand Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "QgSZwrmi1r",
+      "Year": 2009,
+      "Make": "Suzuki",
+      "Model": "SX4",
+      "Category": "Sedan, Hatchback",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "biyJ3M5Upb",
+      "Year": 1996,
+      "Make": "Suzuki",
+      "Model": "X-90",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "3CkHoglZWL",
+      "Year": 2007,
+      "Make": "Suzuki",
+      "Model": "SX4",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "5DqIDd51AI",
+      "Year": 2006,
+      "Make": "Suzuki",
+      "Model": "Reno",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "iq03EYhBAb",
+      "Year": 2009,
+      "Make": "Suzuki",
+      "Model": "XL7",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "2WcwustDJi",
+      "Year": 2011,
+      "Make": "Suzuki",
+      "Model": "Equator Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:17:08.155Z",
+      "updatedAt": "2020-01-27T22:17:08.155Z"
+    },
+    {
+      "objectId": "tyh4jWkTSG",
+      "Year": 2009,
+      "Make": "Suzuki",
+      "Model": "Grand Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "PHtOz8GbMT",
+      "Year": 2008,
+      "Make": "Suzuki",
+      "Model": "Reno",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "B5yHmyGCCG",
+      "Year": 2011,
+      "Make": "Suzuki",
+      "Model": "Kizashi",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T22:17:08.155Z",
+      "updatedAt": "2020-01-27T22:17:08.155Z"
+    },
+    {
+      "objectId": "zkomLaObOl",
+      "Year": 2008,
+      "Make": "Suzuki",
+      "Model": "XL7",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "OKvzL97P1i",
+      "Year": 2007,
+      "Make": "Suzuki",
+      "Model": "XL7",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "ELssKE1A0t",
+      "Year": 2007,
+      "Make": "Suzuki",
+      "Model": "Aerio",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "Gs79kVJMfv",
+      "Year": 2007,
+      "Make": "Suzuki",
+      "Model": "Forenza",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "QlrFjyNQAi",
+      "Year": 2002,
+      "Make": "Suzuki",
+      "Model": "Grand Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "u3Rurbljl1",
+      "Year": 2001,
+      "Make": "Suzuki",
+      "Model": "Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "pda3yUDTij",
+      "Year": 2006,
+      "Make": "Suzuki",
+      "Model": "Verona",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "yd9CVvUJNi",
+      "Year": 2003,
+      "Make": "Suzuki",
+      "Model": "Aerio",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "r2YpLrrbfe",
+      "Year": 1998,
+      "Make": "Suzuki",
+      "Model": "Esteem",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "7evI7wdeRL",
+      "Year": 2004,
+      "Make": "Suzuki",
+      "Model": "XL-7",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "2i37vTyjmH",
+      "Year": 1995,
+      "Make": "Suzuki",
+      "Model": "Sidekick",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "IygRGLitcx",
+      "Year": 2011,
+      "Make": "Suzuki",
+      "Model": "Equator Extended Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:17:08.155Z",
+      "updatedAt": "2020-01-27T22:17:08.155Z"
+    },
+    {
+      "objectId": "CGECxEJBSj",
+      "Year": 2007,
+      "Make": "Suzuki",
+      "Model": "Grand Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "S8xpL9SMvN",
+      "Year": 2010,
+      "Make": "Suzuki",
+      "Model": "Equator Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "o16sVj2hig",
+      "Year": 2008,
+      "Make": "Suzuki",
+      "Model": "Forenza",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "G4BmfuCXq3",
+      "Year": 2012,
+      "Make": "Suzuki",
+      "Model": "SX4",
+      "Category": "Sedan, Hatchback",
+      "createdAt": "2020-01-27T22:17:08.155Z",
+      "updatedAt": "2020-01-27T22:17:08.155Z"
+    },
+    {
+      "objectId": "N42rZu5TWT",
+      "Year": 2010,
+      "Make": "Suzuki",
+      "Model": "Kizashi",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "N6AqG4aJmK",
+      "Year": 2002,
+      "Make": "Suzuki",
+      "Model": "XL-7",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "QdtD7DlgfR",
+      "Year": 1997,
+      "Make": "Suzuki",
+      "Model": "Swift",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "4JqhXUBC11",
+      "Year": 2004,
+      "Make": "Suzuki",
+      "Model": "Verona",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "yOVu4NJGSk",
+      "Year": 2010,
+      "Make": "Suzuki",
+      "Model": "Grand Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "etjjYr3Dqj",
+      "Year": 2008,
+      "Make": "Suzuki",
+      "Model": "SX4",
+      "Category": "Sedan, Hatchback",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "6msHeudAJQ",
+      "Year": 2003,
+      "Make": "Suzuki",
+      "Model": "Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "DnOlPAxHKa",
+      "Year": 2004,
+      "Make": "Suzuki",
+      "Model": "Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "wmSFFKhgyP",
+      "Year": 1998,
+      "Make": "Suzuki",
+      "Model": "X-90",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "P6OsQNMqem",
+      "Year": 1995,
+      "Make": "Suzuki",
+      "Model": "Esteem",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "DggCG2b0z1",
+      "Year": 2000,
+      "Make": "Suzuki",
+      "Model": "Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "FdCBcrVL0f",
+      "Year": 1998,
+      "Make": "Suzuki",
+      "Model": "Swift",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "81wsiyKBUY",
+      "Year": 2012,
+      "Make": "Suzuki",
+      "Model": "Kizashi",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T22:17:08.155Z",
+      "updatedAt": "2020-01-27T22:17:08.155Z"
+    },
+    {
+      "objectId": "ussfiHhMHv",
+      "Year": 2008,
+      "Make": "Suzuki",
+      "Model": "Grand Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "ED9rHjNNKN",
+      "Year": 2013,
+      "Make": "Suzuki",
+      "Model": "Kizashi",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T22:17:08.155Z",
+      "updatedAt": "2020-01-27T22:17:08.155Z"
+    },
+    {
+      "objectId": "hozgXhdvu3",
+      "Year": 2009,
+      "Make": "Suzuki",
+      "Model": "Equator Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "t9xUqVfyVP",
+      "Year": 2004,
+      "Make": "Suzuki",
+      "Model": "Grand Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "FJzPoqKw1q",
+      "Year": 2011,
+      "Make": "Suzuki",
+      "Model": "Grand Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.155Z",
+      "updatedAt": "2020-01-27T22:17:08.155Z"
+    },
+    {
+      "objectId": "o3R5ZwHdSZ",
+      "Year": 2005,
+      "Make": "Suzuki",
+      "Model": "Forenza",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "JP5OFPQ1XB",
+      "Year": 2004,
+      "Make": "Suzuki",
+      "Model": "Forenza",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "HLS4ObkpWE",
+      "Year": 1993,
+      "Make": "Suzuki",
+      "Model": "Swift",
+      "Category": "Sedan, Hatchback",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "091onUlLt0",
+      "Year": 2005,
+      "Make": "Suzuki",
+      "Model": "Aerio",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "0Jg43KFT3U",
+      "Year": 2003,
+      "Make": "Suzuki",
+      "Model": "XL-7",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "4Rgp3C9dgB",
+      "Year": 2005,
+      "Make": "Suzuki",
+      "Model": "Verona",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "JxXQ03GZfF",
+      "Year": 2001,
+      "Make": "Suzuki",
+      "Model": "Swift",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "CYj2yF33wN",
+      "Year": 1999,
+      "Make": "Suzuki",
+      "Model": "Grand Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "NBcNkwLkQa",
+      "Year": 1997,
+      "Make": "Suzuki",
+      "Model": "Sidekick",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "xoHco2X23z",
+      "Year": 1993,
+      "Make": "Suzuki",
+      "Model": "Sidekick",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "P8YlGaNj8n",
+      "Year": 2001,
+      "Make": "Suzuki",
+      "Model": "Grand Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "DbADpEnmNw",
+      "Year": 1997,
+      "Make": "Suzuki",
+      "Model": "Esteem",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "u2DjkdPoMP",
+      "Year": 2007,
+      "Make": "Suzuki",
+      "Model": "Reno",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "hEAlr3t7uX",
+      "Year": 2005,
+      "Make": "Suzuki",
+      "Model": "Grand Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "vC2Fxz8aty",
+      "Year": 2010,
+      "Make": "Suzuki",
+      "Model": "SX4",
+      "Category": "Sedan, Hatchback",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "oJNaWXSlVa",
+      "Year": 2011,
+      "Make": "Suzuki",
+      "Model": "SX4",
+      "Category": "Sedan, Hatchback",
+      "createdAt": "2020-01-27T22:17:08.155Z",
+      "updatedAt": "2020-01-27T22:17:08.155Z"
+    },
+    {
+      "objectId": "CVBFXKkf14",
+      "Year": 2012,
+      "Make": "Suzuki",
+      "Model": "Equator Extended Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T22:17:08.155Z",
+      "updatedAt": "2020-01-27T22:17:08.155Z"
+    },
+    {
+      "objectId": "k7pKYMpjbu",
+      "Year": 2013,
+      "Make": "Suzuki",
+      "Model": "Grand Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.155Z",
+      "updatedAt": "2020-01-27T22:17:08.155Z"
+    },
+    {
+      "objectId": "7TQ6htJFca",
+      "Year": 2006,
+      "Make": "Suzuki",
+      "Model": "Aerio",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "r4ZgpX0yEb",
+      "Year": 2006,
+      "Make": "Suzuki",
+      "Model": "Forenza",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "RCutDOZSIn",
+      "Year": 1999,
+      "Make": "Suzuki",
+      "Model": "Esteem",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "8KfIIbtc7C",
+      "Year": 2006,
+      "Make": "Suzuki",
+      "Model": "XL-7",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "UmjRazaHqB",
+      "Year": 2005,
+      "Make": "Suzuki",
+      "Model": "Reno",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "a1LNCokK5S",
+      "Year": 1993,
+      "Make": "Suzuki",
+      "Model": "Samurai",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "r03sxkgllS",
+      "Year": 1995,
+      "Make": "Suzuki",
+      "Model": "Samurai",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "6jUigtqFs0",
+      "Year": 2001,
+      "Make": "Suzuki",
+      "Model": "XL-7",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "EKCcMKYSED",
+      "Year": 1999,
+      "Make": "Suzuki",
+      "Model": "Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "SWJkvMBZ8J",
+      "Year": 2002,
+      "Make": "Suzuki",
+      "Model": "Esteem",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "6xxqSSbYzf",
+      "Year": 2002,
+      "Make": "Suzuki",
+      "Model": "Aerio",
+      "Category": "Wagon, Sedan",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "iE7U5bJwS3",
+      "Year": 1999,
+      "Make": "Suzuki",
+      "Model": "Swift",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "GgXIlWlplv",
+      "Year": 1992,
+      "Make": "Suzuki",
+      "Model": "Samurai",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "nceU4wUD5V",
+      "Year": 2005,
+      "Make": "Suzuki",
+      "Model": "XL-7",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "KHTYf4v5mM",
+      "Year": 1996,
+      "Make": "Suzuki",
+      "Model": "Esteem",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "M8O1UKqsFk",
+      "Year": 1994,
+      "Make": "Suzuki",
+      "Model": "Samurai",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "42BmDsEU9x",
+      "Year": 2000,
+      "Make": "Suzuki",
+      "Model": "Swift",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "Kpddm5bUSh",
+      "Year": 1998,
+      "Make": "Suzuki",
+      "Model": "Sidekick",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "BCuhiEg5ey",
+      "Year": 2004,
+      "Make": "Suzuki",
+      "Model": "Aerio",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "HaGo7N6KGE",
+      "Year": 1994,
+      "Make": "Suzuki",
+      "Model": "Swift",
+      "Category": "Sedan, Hatchback",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "2kJaoOERDK",
+      "Year": 2001,
+      "Make": "Suzuki",
+      "Model": "Esteem",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "5i7B8ivMUn",
+      "Year": 2002,
+      "Make": "Suzuki",
+      "Model": "Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "nAyQRVY85Z",
+      "Year": 1996,
+      "Make": "Suzuki",
+      "Model": "Sidekick",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "wAxMtmxLr6",
+      "Year": 1994,
+      "Make": "Suzuki",
+      "Model": "Sidekick",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "QVEDXqVQXw",
+      "Year": 1997,
+      "Make": "Suzuki",
+      "Model": "X-90",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "Jb5Qo0k8Ec",
+      "Year": 1992,
+      "Make": "Suzuki",
+      "Model": "Sidekick",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "XFMD1iLKp0",
+      "Year": 2000,
+      "Make": "Suzuki",
+      "Model": "Esteem",
+      "Category": "Sedan, Wagon",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "kFfcWf2e2l",
+      "Year": 2000,
+      "Make": "Suzuki",
+      "Model": "Grand Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "D05Uun2unV",
+      "Year": 1992,
+      "Make": "Suzuki",
+      "Model": "Swift",
+      "Category": "Sedan, Hatchback",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "TjLxu1NEs2",
+      "Year": 1995,
+      "Make": "Suzuki",
+      "Model": "Swift",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    },
+    {
+      "objectId": "T9BEcM11dV",
+      "Year": 2003,
+      "Make": "Suzuki",
+      "Model": "Grand Vitara",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T22:17:08.157Z",
+      "updatedAt": "2020-01-27T22:17:08.157Z"
+    },
+    {
+      "objectId": "YeOe5Yz20y",
+      "Year": 1996,
+      "Make": "Suzuki",
+      "Model": "Swift",
+      "Category": "Hatchback",
+      "createdAt": "2020-01-27T22:17:08.158Z",
+      "updatedAt": "2020-01-27T22:17:08.158Z"
+    }
+  ]
+}
